@@ -1,0 +1,133 @@
+[{
+        "id": 33,
+        "name": "Earring 1",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear1_2.jpg",
+        "img": "assets/image/earing/ear1.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Earring 2",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/earing/ear2_2.jpg",
+        "img": "assets/image/earing/ear2.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Earring 3",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/earing/ear3_2.jpg",
+        "img": "assets/image/earing/ear3.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Earring 4",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear4_2.jpg",
+        "img": "assets/image/earing/ear4.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Earring 5",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear5_2.jpg",
+        "img": "assets/image/earing/ear5.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Earring 6",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear6_2.jpg",
+        "img": "assets/image/earing/ear6.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Earring 7",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/earing/ear7_2.jpg",
+        "img": "assets/image/earing/ear7.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Earring 8",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/earing/ear8_2.jpg",
+        "img": "assets/image/earing/ear8.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Earring 9",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear9_2.jpg",
+        "img": "assets/image/earing/ear9.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Earring 10",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/earing/ear10_2.jpg",
+        "img": "assets/image/earing/ear10.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Earring 11",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/earing/ear11_2.jpg",
+        "img": "assets/image/earing/ear11.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Earring 12",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear12_2.jpg",
+        "img": "assets/image/earing/ear12.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Earring 13",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear13_2.jpg",
+        "img": "assets/image/earing/ear13.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Earring 14",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/earing/ear14_2.jpg",
+        "img": "assets/image/earing/ear14.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Earring 15",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/earing/ear15_2.jpg",
+        "img": "assets/image/earing/ear15.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Earring 16",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/earing/ear16_2.jpg",
+        "img": "assets/image/earing/ear16.jpg"
+    }
+]

@@ -1,0 +1,42 @@
+﻿var _etmc = _etmc || [];
+var trackingTypes = ["trackPageView", "trackCart", "trackConversion"];
+function processPush(arguments) {
+    var type = arguments[0];
+    switch (type) {
+        case 'setUserId':
+            //omktSetPartnerUserId();
+            break;
+    }
+    if (!trackingTypes.includes(type)) return;
+
+    var model = {
+        type: type,
+        documentLocationURL: document.location.href,
+        documentTitle: document.title,
+        documentReferrer: document.referrer,
+
+        userId: autoAdsMaxLead_widget_options.identity,
+        partnerUserId: autoAdsMaxLead_widget_options.business.partnerUserId,
+        websiteId: autoAdsMaxLead_widget_options.business.business_id,
+    };
+    if (arguments.length > 1) {
+        model[type] = arguments[1];
+    }
+
+    fetch(autoAdsMaxLead_widget_api_url + '/api/tracking/collect', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', },
+        body: JSON.stringify(model),
+    })
+        .then(response => response.json())
+        .then(data => {
+            console.log('Success:', data);
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+        });
+}
+_etmc.push = function () {
+    Array.prototype.push.apply(this, arguments);
+    processPush(arguments[0]);
+};

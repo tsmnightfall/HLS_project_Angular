@@ -1,0 +1,132 @@
+[{
+        "id": 1,
+        "name": "Cleanser 1",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick3_2.jpg",
+        "img": "assets/image/lipstick/lipstick3.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cleanser 2",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick3_2.jpg",
+        "img": "assets/image/lipstick/lipstick3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cleanser 3",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/lipstick/lipstick3_2.jpg",
+        "img": "assets/image/lipstick/lipstick3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cleanser 4",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick4_2.jpg",
+        "img": "assets/image/lipstick/lipstick4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cleanser 5",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick5_2.jpg",
+        "img": "assets/image/lipstick/lipstick5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cleanser 6",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick6_2.jpg",
+        "img": "assets/image/lipstick/lipstick6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cleanser 7",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lipstick7_2.jpg",
+        "img": "assets/image/lipstick/lipstick7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cleanser 8",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lipstick8_2.jpg",
+        "img": "assets/image/lipstick/lipstick8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Cleanser 9",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick9_2.jpg",
+        "img": "assets/image/lipstick/lipstick9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Cleanser 10",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/lipstick/lipstick10_2.jpg",
+        "img": "assets/image/lipstick/lipstick10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Cleanser 11",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/lipstick/lipstick11_2.jpg",
+        "img": "assets/image/lipstick/lipstick11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Cleanser 12",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick12_2.jpg",
+        "img": "assets/image/lipstick/lipstick12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Cleanser 13",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick13_2.jpg",
+        "img": "assets/image/lipstick/lipstick13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Cleanser 14",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lipstick14_2.jpg",
+        "img": "assets/image/lipstick/lipstick14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Cleanser 15",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lipstick15_2.jpg",
+        "img": "assets/image/lipstick/lipstick15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Cleanser 16",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lipstick16_2.jpg",
+        "img": "assets/image/lipstick/lipstick16.jpg"
+    }
+]

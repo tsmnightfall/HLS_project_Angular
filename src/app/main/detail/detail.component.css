@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.container-fluid .duel-nav {
+    justify-content: center;
+    margin: 0 auto;
+    font-family: Italiana;
+    margin-bottom: 3%;
+}
+
+.container-fluid .duel-nav .duel-nav-jwelry {
+    border-right: 1px solid black;
+    padding: 2%;
+}
+
+.container-fluid .duel-nav .duel-nav-jwelry:hover a h1 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid .duel-nav .duel-nav-cosmetic {
+    border-left: 1px solid black;
+    padding: 2%;
+}
+
+.container-fluid .duel-nav .duel-nav-cosmetic:hover a h1 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid .product-nav {
+    margin: 0 auto;
+    font-family: Italiana;
+    padding-bottom: 3%;
+}
+
+.container-fluid .product-nav .product-nav-jwelry,
+.product-nav-cosmetic {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    margin-bottom: 5%;
+}
+
+.container-fluid .product-nav .product-nav-jwelry:hover a h3 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid .product-nav .product-nav-cosmetic:hover a h3 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid .name-bar {
+    margin: 0 auto;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-family: Italiana;
+}
+
+.container-fluid main .product {
+    margin: 0 auto;
+    font-family: Italiana;
+    margin-bottom: 3%;
+}
+
+.container-fluid main .product .product-img {
+    padding: 0;
+    padding-right: 1.5%;
+}
+
+.container-fluid main .product .product-img .product-main-img {
+    margin-bottom: 3%;
+    border: 1px solid black;
+}
+
+.container-fluid main .product .product-img .product-other-img {
+    padding: 0 !important;
+    justify-content: space-between;
+    margin: 0 !important;
+}
+
+.container-fluid main .product .product-img .product-other-img .left {
+    padding: 0;
+    padding-right: 1.5%;
+}
+
+.container-fluid main .product .product-img .product-other-img .right {
+    padding: 0;
+    padding-left: 1.5%;
+}
+
+.container-fluid main .product .product-img .product-other-img div img {
+    border: 1px solid black;
+}
+
+.container-fluid main .product .product-img .product-main-img div {
+    padding: 0 !important;
+}
+
+.container-fluid main .product .product-detail {
+    padding-left: 1.5%;
+}
+
+.container-fluid main .product .product-detail h1,
+h2,
+h3 {
+    margin-bottom: 3%;
+}
+
+.container-fluid main .product .product-detail .qty div button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(80, 80, 255);
+    color: white;
+    border: none;
+}
+
+.dt-size {
+    font-family: 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
+    margin-bottom: 3%;
+}
+
+.dt-size button {
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+    border: 1px solid gray;
+    background-color: #f1f0ec;
+}
+
+.btn-size:focus {
+    border: 1px solid #111111;
+    color: #ffffff;
+    background-color: #111111;
+}
+
+.text3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-fluid main .product .product-detail .qty div span {
+    font-weight: 500;
+}
+
+.container-fluid main .product .product-detail .qty div input {
+    height: 40px;
+    width: 80px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.container-fluid .product-roll {
+    margin-bottom: 3%;
+    font-family: Italiana;
+    margin: 0 auto;
+}
+
+.container-fluid .product-roll-bestseller h2 {
+    font-family: Italiana;
+    margin-bottom: 3%;
+}
+
+@media screen and (max-width: 425px) {
+    .container-fluid {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}

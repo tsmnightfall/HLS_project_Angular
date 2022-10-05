@@ -1,0 +1,336 @@
+@keyframes ModalAnimation {
+    from {
+        transform: translate(0, -150%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translate(0, 0);
+        opacity: 1;
+    }
+}
+
+@keyframes ModalAnimationClose {
+    to {
+        transform: translate(0, -150%);
+        opacity: 0;
+    }
+
+    from {
+        transform: translate(0, 0);
+        opacity: 1;
+    }
+}
+
+#apn-popover-container {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+    #apn-popover-container .apn-modal-open {
+        background: rgba(0, 0, 0, 0.2);
+    }
+
+        #apn-popover-container.apn-modal-open #apn-popover-dialog {
+            /*transform: translate(-50%, 0);*/
+            opacity: 1;
+            animation-name: ModalAnimation;
+            animation-duration: 0.7s;
+        }
+
+    #apn-popover-container.apn-modal-d-none{ display:none}
+    #apn-popover-container.apn-modal-close #apn-popover-dialog {
+        animation-name: ModalAnimationClose;
+        animation-duration: 0.5s;
+        opacity: 0;
+    }
+
+
+#apn-popover-container {
+    top: 0;
+}
+
+#apn-popover-container {
+    font-size: 14px;
+    position: fixed;
+    z-index: 2258594000;
+    left: 0;
+    right: 0;
+    -webkit-font-smoothing: initial;
+}
+
+.apn-reset {
+    font-size: medium;
+    line-height: 1;
+    direction: ltr;
+    text-align: left;
+    text-align: start;
+    font-family: Times New Roman,Times,serif;
+    color: #000;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    list-style-type: disc;
+}
+
+    .apn-reset, .apn-reset a, .apn-reset abbr, .apn-reset acronym, .apn-reset address, .apn-reset applet, .apn-reset area, .apn-reset article, .apn-reset aside, .apn-reset audio, .apn-reset b, .apn-reset big, .apn-reset blockquote, .apn-reset button, .apn-reset canvas, .apn-reset caption, .apn-reset cite, .apn-reset code, .apn-reset col, .apn-reset colgroup, .apn-reset datalist, .apn-reset dd, .apn-reset del, .apn-reset dfn, .apn-reset div, .apn-reset dl, .apn-reset dt, .apn-reset em, .apn-reset fieldset, .apn-reset figcaption, .apn-reset figure, .apn-reset footer, .apn-reset form, .apn-reset h1, .apn-reset h2, .apn-reset h3, .apn-reset h4, .apn-reset h5, .apn-reset h6, .apn-reset header, .apn-reset hr, .apn-reset i, .apn-reset iframe, .apn-reset img, .apn-reset input, .apn-reset ins, .apn-reset kbd, .apn-reset label, .apn-reset legend, .apn-reset li, .apn-reset main, .apn-reset map, .apn-reset mark, .apn-reset menu, .apn-reset meta, .apn-reset nav, .apn-reset object, .apn-reset ol, .apn-reset optgroup, .apn-reset option, .apn-reset output, .apn-reset p, .apn-reset pre, .apn-reset progress, .apn-reset q, .apn-reset samp, .apn-reset section, .apn-reset select, .apn-reset small, .apn-reset span, .apn-reset strike, .apn-reset strong, .apn-reset sub, .apn-reset summary, .apn-reset sup, .apn-reset table, .apn-reset tbody, .apn-reset td, .apn-reset textarea, .apn-reset tfoot, .apn-reset th, .apn-reset thead, .apn-reset time, .apn-reset tr, .apn-reset tt, .apn-reset ul, .apn-reset var, .apn-reset video {
+        background-attachment: scroll;
+        background-color: transparent;
+        background-image: none;
+        background-position: 0 0;
+        background-repeat: repeat;
+        border-color: #000;
+        border: medium currentColor;
+        bottom: auto;
+        clear: none;
+        clip: auto;
+        color: #000;
+        counter-increment: none;
+        counter-reset: none;
+        cursor: auto;
+        direction: inherit;
+        display: inline;
+        float: none;
+        font-family: inherit;
+        font-size: inherit;
+        font-style: inherit;
+        font-variant: normal;
+        font-weight: inherit;
+        height: auto;
+        left: auto;
+        letter-spacing: normal;
+        line-height: inherit;
+        list-style-type: inherit;
+        list-style-position: outside;
+        list-style-image: none;
+        margin: 0;
+        max-height: none;
+        max-width: none;
+        min-height: 0;
+        min-width: 0;
+        opacity: 1;
+        outline: medium invert;
+        overflow: visible;
+        padding: 0;
+        position: static;
+        quotes: "" "";
+        right: auto;
+        table-layout: auto;
+        text-align: inherit;
+        text-decoration: inherit;
+        text-indent: 0;
+        text-transform: none;
+        top: auto;
+        unicode-bidi: normal;
+        vertical-align: baseline;
+        visibility: inherit;
+        white-space: normal;
+        width: auto;
+        word-spacing: normal;
+        z-index: auto;
+        background-origin: padding-box;
+        background-clip: border-box;
+        background-size: auto;
+        -o-border-image: none;
+        border-image: none;
+        border-radius: 0;
+        box-shadow: none;
+        box-sizing: content-box;
+        column-count: auto;
+        column-gap: normal;
+        column-rule: medium none #000;
+        column-span: 1;
+        column-width: auto;
+        -webkit-font-feature-settings: normal;
+        font-feature-settings: normal;
+        overflow-x: visible;
+        overflow-y: visible;
+        -webkit-hyphens: manual;
+        -ms-hyphens: manual;
+        hyphens: manual;
+        -ms-perspective: none;
+        -o-perspective: none;
+        perspective: none;
+        -ms-perspective-origin: 50% 50%;
+        -o-perspective-origin: 50% 50%;
+        perspective-origin: 50% 50%;
+        -webkit-backface-visibility: visible;
+        backface-visibility: visible;
+        text-shadow: none;
+        transition: all 0s ease 0s;
+        transform: none;
+        transform-origin: 50% 50%;
+        transform-style: flat;
+        word-break: normal;
+    }
+
+        .apn-reset, .apn-reset address, .apn-reset article, .apn-reset audio, .apn-reset blockquote, .apn-reset caption, .apn-reset colgroup, .apn-reset dd, .apn-reset dialog, .apn-reset div, .apn-reset dl, .apn-reset dt, .apn-reset fieldset, .apn-reset figure, .apn-reset footer, .apn-reset form, .apn-reset h1, .apn-reset h2, .apn-reset h3, .apn-reset h4, .apn-reset h5, .apn-reset h6, .apn-reset header, .apn-reset hgroup, .apn-reset hr, .apn-reset main, .apn-reset menu, .apn-reset nav, .apn-reset ol, .apn-reset option, .apn-reset p, .apn-reset pre, .apn-reset progress, .apn-reset section, .apn-reset summary, .apn-reset ul, .apn-reset video {
+            display: block;
+        }
+
+#apn-popover-container #apn-popover-dialog {
+    width: 500px;
+    /*-webkit-animation-name: slideDownEnter;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: ease-out;
+    -webkit-animation-duration: .4s;
+    -webkit-animation-fill-mode: forwards;
+    animation-name: slideDownEnter;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+    animation-duration: .4s;
+    animation-fill-mode: forwards;*/
+}
+
+#apn-popover-container #apn-popover-dialog {
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0 auto;
+    box-shadow: 0 0 20px 3px rgba(0,0,0,.22) !important;
+    background: #fff !important;
+    padding: 1.286em;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    font-family: Roboto,Noto,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+0% {
+    transform: translateY(-150%);
+}
+
+100% {
+    transform: translateY(0);
+}
+
+}
+
+#apn-popover-container #apn-popover-dialog .apn-popover-body {
+    box-sizing: border-box;
+    margin: 0;
+    display:flex;
+}
+
+#apn-popover-container #apn-popover-dialog .apn-popover-body-icon {
+    box-sizing: border-box;
+    float: left;
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+#apn-popover-container {
+    position: fixed;
+    z-index: 2258594000;
+    left: 0;
+    right: 0;
+    -webkit-font-smoothing: initial;
+}
+
+    #apn-popover-container #apn-popover-dialog .apn-popover-body-icon img {
+        width: 100%;
+        height: 100%;
+    }
+
+.apn-reset img {
+    border: 0;
+}
+
+#apn-popover-container #apn-popover-dialog .apn-popover-body-message {
+    box-sizing: border-box;
+    padding: 0 .2em 0 1.286em;
+    float: left;
+    width: calc(100% - 80px);
+    font-size: 1.143em;
+    line-height: 1.45em;
+    user-select: none;
+    cursor: default;
+}
+
+#apn-popover-container #apn-popover-dialog .clearfix {
+    display: block;
+    -webkit-backface-visibility: initial !important;
+    backface-visibility: initial !important;
+}
+    #apn-popover-container #apn-popover-dialog .clearfix:after{
+        content: normal;
+    }
+
+    #apn-popover-container #apn-popover-dialog .apn-popover-footer {
+        position: relative;
+        margin: .25em .25em 0 0;
+    }
+
+#apn-popover-container #apn-popover-dialog .apn-popover-button.apn-primary {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 6px 0 rgba(0,0,0,.12);
+    background: #1165f1 !important;
+    color: #fff !important;
+}
+
+#apn-popover-container #apn-popover-dialog .align-right {
+    float: right;
+}
+
+#apn-popover-container #apn-popover-dialog .apn-popover-button {
+    padding: .714em 2em;
+    font-size: 1em;
+    border-radius: 2px;
+    font-weight: 400;
+}
+
+#apn-popover-container #apn-popover-dialog .apn-primary.apn-popover-button + .apn-secondary.apn-popover-button {
+    margin-right: .714em;
+}
+
+#apn-popover-container #apn-popover-dialog .apn-popover-button.apn-secondary {
+    box-shadow: none;
+    background: #fff !important;
+    color: #1165f1 !important;
+}
+
+#apn-popover-container #apn-popover-dialog .align-right {
+    float: right;
+}
+
+#apn-popover-container #apn-popover-dialog button {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: .375rem 1rem;
+    font-size: .9625em;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    font-family: inherit;
+    letter-spacing: .05em;
+    transition: background-color 75ms ease;
+    margin: 0;
+}
+
+.apn-reset button, .apn-reset input[type=submit] {
+    text-align: center;
+    padding: 2px 6px 3px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: arial,helvetica,sans-serif;
+    font-size: small;
+    -webkit-appearance: push-button;
+    color: buttontext;
+    border: 1px solid #a6a6a6;
+    background: #d3d3d3;
+    background: #fff;
+    background: linear-gradient(180deg,#fff 0,#ddd 100%,#d1d1d1 0,#ddd 0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#dddddd",GradientType=0);
+    -o-box-shadow: 1px 1px 0 #eee;
+    box-shadow: 1px 1px 0 #eee;
+    outline: initial;
+}

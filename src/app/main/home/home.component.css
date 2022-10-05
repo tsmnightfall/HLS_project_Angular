@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.container-fluid .duel-nav {
+    justify-content: center;
+    margin: 0 auto;
+    font-family: Italiana;
+    margin-bottom: 3%;
+}
+
+.container-fluid .duel-nav .duel-nav-jwelry {
+    border-right: 1px solid black;
+    padding: 2%;
+}
+
+.container-fluid .duel-nav .duel-nav-jwelry:hover a h1 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid .duel-nav .duel-nav-cosmetic {
+    border-left: 1px solid black;
+    padding: 2%;
+}
+
+.container-fluid .duel-nav .duel-nav-cosmetic:hover a h1 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid main .jumbotron {
+    background-color: white;
+    margin: 0 auto;
+    padding-bottom: 3%;
+}
+
+.container-fluid main .jumbotron h1 {
+    font-family: 'Italianno', cursive;
+    border: 1px solid black;
+    width: 100%;
+}
+
+.container-fluid main .jwelry-home {
+    justify-content: space-between;
+    padding: 0;
+    margin: 0 auto;
+    padding-bottom: 3%;
+}
+
+.container-fluid main .jwelry-home .jwelry-home-left {
+    padding: 0;
+    margin-bottom: 3%;
+}
+
+.container-fluid main .jwelry-home .jwelry-home-right {
+    padding: 0;
+}
+
+.container-fluid main .jwelry-home .jwelry-home-right div a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.container-fluid main .cosmetic-home {
+    justify-content: space-between;
+    padding: 0;
+    margin: 0 auto;
+    padding-bottom: 3%;
+}
+
+.container-fluid main .cosmetic-home .cosmetic-home-left {
+    padding: 0;
+    margin-bottom: 3%;
+}
+
+.container-fluid main .cosmetic-home .cosmetic-home-right {
+    padding: 0;
+}
+
+.container-fluid main .cosmetic-home-right div a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.container-fluid main .founder {
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    background: white;
+}
+
+.container-fluid main .founder h2 {
+    background: #e9ecef;
+    padding: 3%;
+    width: 100%;
+}
+
+.container-fluid main .founder-home {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-top: 2%;
+}
+
+.container-fluid main .founder-home .card {
+    padding: 0;
+}
+
+.container-fluid main .founder-home .card div {
+    background: #e9ecef;
+}
+
+.container-fluid main .more {
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 1%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid main .more a {
+    text-decoration: none;
+    color: black;
+}
+
+.container-fluid main .blog {
+    margin: 0 auto;
+    margin-top: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    background: white;
+}
+
+.container-fluid main .blog h2 {
+    background: #e9ecef;
+    padding: 3%;
+    width: 100%;
+}
+
+.container-fluid main .blog-home {
+    margin: 0 auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.container-fluid main .blog-home .row {
+    padding-bottom: 3%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid main .blog-home .row div {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.container-fluid main .blog-home .row div a {
+    text-decoration: none;
+    color: gray !important;
+}
+
+@media screen and (max-width: 425px) {
+    .container-fluid {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}

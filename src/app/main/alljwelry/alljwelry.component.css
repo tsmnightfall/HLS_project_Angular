@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.container-fluid header {
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+.container-fluid header div form input {
+    margin-right: 0 !important;
+}
+
+.container-fluid .name-bar {
+    justify-content: space-around;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-family: Italiana;
+}
+
+.container-fluid .name-bar h3 {
+    text-align: left;
+    margin: 0 auto;
+}
+
+.container-fluid .product-roll {
+    margin-bottom: 3%;
+    font-family: Italiana;
+    margin: 0 auto;
+}
+
+.container-fluid .product-roll-bestseller h2 {
+    font-family: Italiana;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.container-fluid .product-roll-new h2 {
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.container-fluid main .product {
+    margin: 0 auto;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.container-fluid main .product h2 {
+    font-family: Italiana;
+    margin-bottom: 3%;
+}
+
+.container-fluid main .product .all a {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.card {
+    padding-left: 3%;
+    padding-right: 3%;
+    border: none;
+    margin-bottom: 5%;
+}
+
+.card .change-img {
+    display: none;
+}
+
+.card .card-body {
+    padding: 3%;
+    border-bottom: 1px solid rgb(184, 184, 184);
+    border-left: 1px solid rgb(184, 184, 184);
+    border-right: 1px solid rgb(184, 184, 184);
+    border-radius: 1%;
+    font-family: Italiana;
+}
+
+.card:hover img {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-radius: 1%;
+}
+
+.card:hover .card-img-top {
+    transition: 1s;
+    display: none;
+}
+
+.card:hover .change-img {
+    transition: 1s;
+    display: block;
+}
+
+.card:hover .card-body {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-radius: 1%;
+}
+
+.container-fluid footer {
+    padding-top: 3%;
+    border-top: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid footer .row {
+    margin: 0 auto;
+    padding-bottom: 3%;
+    padding-top: 2%;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 425px) {
+    .container-fluid {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}

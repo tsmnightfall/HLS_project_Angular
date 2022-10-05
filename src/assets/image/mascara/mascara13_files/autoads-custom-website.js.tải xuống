@@ -1,0 +1,17 @@
+﻿var amlCustomWebsite = [
+    {
+        file_name: 'jemmia',
+        business_id: 'fb057e6de77242829ba4f5b6334aa66d_disabled'
+    },
+    {
+        file_name: 'voso',
+        business_id: 'cee93352dece4dad932fda4f70994ed1'
+    }
+]
+
+function amlGetCustomJs(id) {
+    var findData = amlCustomWebsite.find(x => x.business_id == id);
+    if (findData) {
+        dynamicallyLoadScript(autoAdsMaxLead_widget_server_url.replace('/1.6.x', '') + '/CustomWebsite/customJs/autoads-' + findData.file_name + '.js', function () { amlInitCustom() });
+    }
+}

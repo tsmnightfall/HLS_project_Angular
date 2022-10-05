@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.container-fluid .duel-nav {
+    justify-content: center;
+    margin: 0 auto;
+    font-family: Italiana;
+    margin-bottom: 3%;
+}
+
+.container-fluid .duel-nav .duel-nav-jwelry {
+    border-right: 1px solid black;
+    padding: 2%;
+}
+
+.container-fluid .duel-nav .duel-nav-jwelry:hover a h1 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid .duel-nav .duel-nav-cosmetic {
+    border-left: 1px solid black;
+    padding: 2%;
+}
+
+.container-fluid .duel-nav .duel-nav-cosmetic:hover a h1 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+@media screen and (max-width: 425px) {
+    .container-fluid {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}

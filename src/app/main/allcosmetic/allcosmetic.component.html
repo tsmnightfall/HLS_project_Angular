@@ -1,0 +1,129 @@
+<app-productmenu2></app-productmenu2>
+<div class="container-fluid text-center">
+
+
+
+    <main>
+        <div class="col-lg-10 col-md-10 product-roll product-roll-bestseller text-center">
+            <h2>BEST SELLER</h2>
+            <owl-carousel-o [options]=" customOptions ">
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring1.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 1</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring2.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 2</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring3.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 3</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring4.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 4</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+            </owl-carousel-o>
+
+        </div>
+        <div class="col-lg-10 col-md-10 product-roll product-roll-bestseller text-center">
+            <h2>NEW ARRIVE</h2>
+            <owl-carousel-o [options]=" customOptions ">
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring12.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 12</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring13.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 16</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring14.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 14</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+                <ng-template carouselSlide>
+                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                        <div class="card">
+                            <img class="card-img-top" src="../../../assets/image/ring/ring15.jpg" alt="">
+                            <div class="card-body">
+                                <h4 class="card-title">Ring 15</h4>
+                                <p class="card-text">100$</p>
+                            </div>
+                        </div>
+                    </a>
+                </ng-template>
+            </owl-carousel-o>
+        </div>
+        <div class="product col-lg-10 text-center">
+            <h2>
+                ALL JWELRY
+            </h2>
+            <div class=" all row ">
+                <div class="col-lg-3 col-md-4 col-6" *ngFor="let item of allcosmetic">
+                    <a routerLink="detail">
+                        <div class="card">
+                            <img class="card-img-top" src="{{item.img}}" alt="">
+                            <!-- <img class="change-img" src="../../../assets/image/ring/ring10.jpg"> -->
+                            <div class="card-body">
+                                <h4 class="card-title">{{item.name}}</h4>
+                                <p class="card-text">{{item.price}}$</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+
+    </main>
+</div>

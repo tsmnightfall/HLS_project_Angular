@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.img {
+    padding: 0;
+    margin: 0 auto;
+    padding-bottom: 2%;
+}
+
+.card {
+    padding: 0;
+}
+
+.card-body {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.text1 {
+    padding: 5%;
+    margin: 0 !important;
+    margin: 0 auto;
+    border: 1px solid black;
+    font-family: 'Italianno', cursive;
+}
+
+.text2 {
+    padding: 5%;
+    margin: 0 auto;
+    border: 1px solid black;
+    font-family: 'Italianno', cursive;
+}
+
+.header {
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+main {
+    margin-bottom: 3%;
+}

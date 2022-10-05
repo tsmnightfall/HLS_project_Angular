@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.container-fluid .product-nav {
+    margin: 0 auto;
+    font-family: Italiana;
+    padding-bottom: 3%;
+}
+
+.container-fluid .product-nav .product-nav-jwelry,
+.product-nav-cosmetic {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    margin-bottom: 5%;
+}
+
+.container-fluid .product-nav .product-nav-jwelry:hover a h3 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}
+
+.container-fluid .product-nav .product-nav-cosmetic:hover a h3 {
+    background: rgb(184, 184, 184);
+    color: white;
+    transition: 1s;
+}

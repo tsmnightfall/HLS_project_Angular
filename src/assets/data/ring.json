@@ -1,0 +1,133 @@
+[{
+        "id": 1,
+        "name": "Ring 1",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring1_2.jpg",
+        "img": "assets/image/ring/ring1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ring 2",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/ring/ring2_2.jpg",
+        "img": "assets/image/ring/ring2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ring 3",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/ring/ring3_2.jpg",
+        "img": "assets/image/ring/ring3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ring 4",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring4_2.jpg",
+        "img": "assets/image/ring/ring4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ring 5",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring5_2.jpg",
+        "img": "assets/image/ring/ring5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ring 6",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring6_2.jpg",
+        "img": "assets/image/ring/ring6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ring 7",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/ring/ring7_2.jpg",
+        "img": "assets/image/ring/ring7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Ring 8",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/ring/ring8_2.jpg",
+        "img": "assets/image/ring/ring8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ring 9",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring9_2.jpg",
+        "img": "assets/image/ring/ring9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ring 10",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/ring/ring10_2.jpg",
+        "img": "assets/image/ring/ring10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Ring 11",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/ring/ring11_2.jpg",
+        "img": "assets/image/ring/ring11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Ring 12",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring12_2.jpg",
+        "img": "assets/image/ring/ring12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Ring 13",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring13_2.jpg",
+        "img": "assets/image/ring/ring13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Ring 14",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/ring/ring14_2.jpg",
+        "img": "assets/image/ring/ring14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Ring 15",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/ring/ring15_2.jpg",
+        "img": "assets/image/ring/ring15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Ring 16",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/ring/ring16_2.jpg",
+        "img": "assets/image/ring/ring16.jpg"
+    }
+]

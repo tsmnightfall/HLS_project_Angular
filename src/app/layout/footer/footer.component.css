@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.container-fluid footer {
+    padding-top: 3%;
+    border-top: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid footer .row {
+    margin: 0 auto;
+    padding-bottom: 3%;
+    padding-top: 2%;
+    justify-content: space-between;
+}
+
+.container-fluid footer .row .col-lg-4 {
+    padding: 5%;
+}
