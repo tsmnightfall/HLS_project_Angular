@@ -1,162 +1,145 @@
 [{
-        "id": 81,
-        "name": "mascara 1",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas1_2.png",
-        "img2": "assets/image/mascara/mas1_1.png",
-        "img": "assets/image/mascara/mas1.jpeg"
-    },
-    {
-        "id": 82,
-        "name": "mascara 2",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas2_2.png",
-        "img2": "assets/image/mascara/mas2_1.png",
-        "img": "assets/image/mascara/mas2.jpeg"
-    },
-    {
-        "id": 83,
-        "name": "mascara 3",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas3_2.png",
-        "img2": "assets/image/mascara/mas3_1.png",
-        "img": "assets/image/mascara/mas3.jpeg"
-    },
-    {
-        "id": 84,
-        "name": "mascara 4",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas4_2.png",
-        "img2": "assets/image/mascara/mas4_1.png",
-        "img": "assets/image/mascara/mas4.jpeg"
-    },
-    {
-        "id": 85,
-        "name": "mascara 5",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas5_2.png",
-        "img2": "assets/image/mascara/mas5_1.png",
-        "img": "assets/image/mascara/mas5.jpeg"
-    },
-    {
-        "id": 86,
-        "name": "mascara 6",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas6_2.png",
-        "img2": "assets/image/mascara/mas6_1.png",
-        "img": "assets/image/mascara/mas6.jpeg"
-    },
-    {
-        "id": 87,
-        "name": "mascara 7",
-        "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas7_2.png",
-        "img2": "assets/image/mascara/mas7_1.png",
-        "img": "assets/image/mascara/mas7.jpeg"
-    },
-    {
-        "id": 88,
-        "name": "mascara 8",
-        "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas8_2.png",
-        "img2": "assets/image/mascara/mas8_1.png",
-        "img": "assets/image/mascara/mas8.jpeg"
-    },
-    {
-        "id": 89,
-        "name": "mascara 9",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas9_2.png",
-        "img2": "assets/image/mascara/mas9_1.png",
-        "img": "assets/image/mascara/mas9.jpeg"
-    },
-    {
-        "id": 90,
-        "name": "mascara 10",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas10_2.png",
-        "img2": "assets/image/mascara/mas10_1.png",
-        "img": "assets/image/mascara/mas10.jpeg"
-    },
-    {
-        "id": 91,
-        "name": "mascara 11",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas11_2.png",
-        "img2": "assets/image/mascara/mas11_1.png",
-        "img": "assets/image/mascara/mas11.jpeg"
-    },
-    {
-        "id": 92,
-        "name": "mascara 12",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas12_2.png",
-        "img2": "assets/image/mascara/mas12_1.png",
-        "img": "assets/image/mascara/mas12.jpeg"
-    },
-    {
-        "id": 93,
-        "name": "mascara 13",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas13_2.png",
-        "img2": "assets/image/mascara/mas13_1.png",
-        "img": "assets/image/mascara/mas13.jpeg"
-    },
-    {
-        "id": 94,
-        "name": "mascara 14",
-        "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas14_2.png",
-        "img2": "assets/image/mascara/mas14_1.png",
-        "img": "assets/image/mascara/mas14.jpeg"
-    },
-    {
-        "id": 95,
-        "name": "mascara 15",
-        "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas15_2.jpg",
-        "img2": "assets/image/mascara/mas15_1.jpg",
-        "img": "assets/image/mascara/mas15.png"
-    },
-    {
-        "id": 96,
-        "name": "mascara 16",
-        "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/mascara/mas16_2.png",
-        "img2": "assets/image/mascara/mas16_1.png",
-        "img": "assets/image/mascara/mas16.jpeg"
-
-    }
-]
+    "id": 81,
+    "name": "Silkygirl Big Eye ",
+    "name_cate": "HLS",
+    "price": 9,
+    "detail": "Silkygirl is a cosmetic brand of AGC Group specializing in makeup products researched and developed in Singapore. For many years in a row, the company has been honored as the best-selling brand in Singapore and is loved by many women. Hidden in each product is a message that honors the confident beauty of the young generation but still retains the inherent purity.",
+    "img3": "assets/image/mascara/mas1_2.jpeg",
+    "img2": "assets/image/mascara/mas1_1.jpeg",
+    "img": "assets/image/mascara/mas1.jpeg"
+}, {
+    "id": 82,
+    "name": "Silkygirl Double",
+    "name_cate": "HLS",
+    "price": 11.2,
+    "detail": "Silkygirl is a very popular cosmetic brand in Vietnam, originating from Malaysia and the best-selling brand in neighboring Asian countries. Silkygirl's makeup lines are always enthusiastically welcomed by women not only because of their superior quality, multi-use, but also extremely affordable prices.",
+    "img3": "assets/image/mascara/mas2_2.jpeg",
+    "img2": "assets/image/mascara/mas2_1.jpeg",
+    "img": "assets/image/mascara/mas2.jpeg"
+}, {
+    "id": 83,
+    "name": "Innisfree Skinny",
+    "name_cate": "HLS",
+    "price": 7.9,
+    "detail": "For those who love Korean cosmetics, the name Innisfree is no longer strange. The products of this beauty brand are famous for their ingredients extracted from nature, specifically extracted from plants in Jeju Island, without parabens, without fragrances, without preservatives, .. .with reasonable price, excellent quality. In the mascara segment, Innisfree also made a big splash with the Innisfree Skinny Microcara Zero Set Mascara.",
+    "img3": "assets/image/mascara/mas3_2.jpeg",
+    "img2": "assets/image/mascara/mas3_1.jpeg",
+    "img": "assets/image/mascara/mas3.jpeg"
+}, {
+    "id": 84,
+    "name": "L'Oreal Curl Collagene",
+    "name_cate": "HLS",
+    "price": 11.8,
+    "detail": "L'Oreal is a cosmetic brand from France with more than 100 years of operation in the market, has a certain position when owning a series of famous cosmetic brands such as Maybelline, NYX, Garnier, La Roche Posay... Right from the start Since its establishment, the company has received the overwhelming support of customers around the world because of the investment of brains in each product as well as the rigorous research process, applying the most advanced modern technology. .",
+    "img3": "assets/image/mascara/mas4_2.jpeg",
+    "img2": "assets/image/mascara/mas4_1.jpeg",
+    "img": "assets/image/mascara/mas4.jpeg"
+}, {
+    "id": 85,
+    "name": " Browit Mascara",
+    "name_cate": "HLS",
+    "price": 6.7,
+    "detail": "Mascara is an indispensable make-up item on a woman's dressing table. The product helps to shape eyelashes, give them long curled eyelashes, create accents on the face and make makeup more perfect. Browit By Nong Chat My Everyday Waterproof Mascara from Thai makeup brand Browit By Nong Chat is the ideal eyelash extension that every girl should own.",
+    "img3": "assets/image/mascara/mas5_2.jpeg",
+    "img2": "assets/image/mascara/mas5_1.jpeg",
+    "img": "assets/image/mascara/mas5.jpeg"
+}, {
+    "id": 86,
+    "name": "Mistine 2 head Mascara",
+    "name_cate": "HLS",
+    "price": 6.1,
+    "detail": "Mascara SUPER MODEL 2 ends has 2 modes of length and thickness at the same time with a formula that does not drift, does not smudge. For you to have a long, voluptuous eyelashes. The product has 2 modes of length and thickness at the same time.",
+    "img3": "assets/image/mascara/mas6_2.jpeg",
+    "img2": "assets/image/mascara/mas6_1.jpeg",
+    "img": "assets/image/mascara/mas6.jpeg"
+}, {
+    "id": 87,
+    "name": " Collagen Mascara",
+    "name_cate": "HLS",
+    "price": 10,
+    "detail": "Mascara is an indispensable tool in the makeup process. The product helps to curl lashes evenly, longer and thicker. Understanding that, the famous cosmetic company from Korea The Face Shop has launched the mascara line The Face Shop Gold Collagen Mascara Volume.",
+    "img3": "assets/image/mascara/mas7_2.jpeg",
+    "img2": "assets/image/mascara/mas7_1.jpeg",
+    "img": "assets/image/mascara/mas7.jpeg"
+}, {
+    "id": 88,
+    "name": " Curllong J.MUE",
+    "name_cate": "HLS",
+    "price": 6.5,
+    "detail": "The secret to having big, round, glittering eyes that attract all eyes is to have a perfect long curled eyelashes. If you are looking for an affordable, good quality eyelash extension, Mascara Curllong J.MUE from the famous Korean cosmetic brand J.MUE is the right choice.",
+    "img3": "assets/image/mascara/mas8_2.jpeg",
+    "img2": "assets/image/mascara/mas8_1.jpeg",
+    "img": "assets/image/mascara/mas8.jpeg"
+}, {
+    "id": 89,
+    "name": "Karadium Mascara",
+    "name_cate": "HLS",
+    "price": 7,
+    "detail": "Mascara Karadium On The Top Fiber from the famous Korean cosmetic brand Karadium, helps to thicken and curl natural eyelashes with its ability to resist drift, waterproof, bring highlights to your eyes. Entering the top 10 most popular Korean beauty products in 2015 alongside big names in the cosmetic industry, this promises to be a stormy product in the beauty-loving community.",
+    "img3": "assets/image/mascara/mas9_2.jpeg",
+    "img2": "assets/image/mascara/mas9_1.jpeg",
+    "img": "assets/image/mascara/mas9.jpeg"
+}, {
+    "id": 90,
+    "name": "3CE Eyebrow Mascara",
+    "name_cate": "HLS",
+    "price": 12.7,
+    "detail": "Eyebrow mascara is a tool for brushing eyebrows similar to regular eyelash mascara. People often use eyebrow mascara to conquer unsightly eyebrows, helping eyebrows look more regular and defined.",
+    "img3": "assets/image/mascara/mas10_2.jpeg",
+    "img2": "assets/image/mascara/mas10_1.jpeg",
+    "img": "assets/image/mascara/mas10.jpeg"
+}, {
+    "id": 91,
+    "name": "Kiss me Mascara",
+    "name_cate": "HLS",
+    "price": 11.7,
+    "detail": "Mascara is one of the important makeup tools, indispensable on every girl's dressing table. The product is an effective support tool to help you have a curved, long and thick eyelashes, thereby creating the perfect make-up layer, attracting all eyes.",
+    "img3": "assets/image/mascara/mas11_2.jpeg",
+    "img2": "assets/image/mascara/mas11_1.jpeg",
+    "img": "assets/image/mascara/mas11.jpeg"
+}, {
+    "id": 92,
+    "name": "Catrice Mascara",
+    "name_cate": "HLS",
+    "price": 7,
+    "detail": "Catrice is a cosmetic brand that is too familiar to women. Its products are diverse, ranging from makeup products to skin care products. Among them, it is impossible not to mention Mascara Catrice Lashes To Kill Waterproof Volume - the product is rated 5/5 and is the best-selling mascara in Germany.",
+    "img3": "assets/image/mascara/mas12_2.jpeg",
+    "img2": "assets/image/mascara/mas12_1.jpeg",
+    "img": "assets/image/mascara/mas12.jpeg"
+}, {
+    "id": 93,
+    "name": "Falsies Lash Lift",
+    "name_cate": "HLS",
+    "price": 10,
+    "detail": "Maybelline Mascara Curl Mi Falsies Lash Lift Mascara 8ml is a mascara line from the American cosmetic brand MAYBELLINE, with a curved brush head design alternating to create a curling effect and lift lashes to achieve maximum bending effect from the base of the eyelashes. along with a waterproof formula suitable for girls who often have outdoor activities and have oily eyelids.",
+    "img3": "assets/image/mascara/mas13_2.jpeg",
+    "img2": "assets/image/mascara/mas13_1.jpeg",
+    "img": "assets/image/mascara/mas13.jpeg"
+}, {
+    "id": 94,
+    "name": " Daily Proof Mascara",
+    "name_cate": "HLS",
+    "price": 7.9,
+    "detail": "The Face Shop is a cosmetic brand from Korea, since its establishment, it has been aiming for the mission of Naturel Story.That is respecting and appreciating the natural values​​ that bring to human life.Therefore, the company 's products stand out with pure natural ingredients, distilling the most quintessential things that nature bestows to help people become healthier and more beautiful.",
+    "img3": "assets/image/mascara/mas14_2.jpeg",
+    "img2": "assets/image/mascara/mas14_1.jpeg",
+    "img": "assets/image/mascara/mas14.jpeg"
+}, {
+    "id": 95,
+    "name": " Paradise Loreal Mascara",
+    "name_cate": "HLS",
+    "price": 10.4,
+    "detail": "For women who often wear makeup, mascara is an extremely necessary product to make the eyes become more attractive. However, mascara often makes her quite inconvenient when outdoors or underwater, it will easily smudge and drift. Therefore, waterproof mascara products, thick eyelashes are always the object that any woman wants to hunt.",
+    "img3": "assets/image/mascara/mas15_2.jpeg",
+    "img2": "assets/image/mascara/mas15_1.jpeg",
+    "img": "assets/image/mascara/mas15.jpeg"
+}, {
+    "id": 96,
+    "name": "Catrice Glam ",
+    "name_cate": "HLS",
+    "price": 7,
+    "detail": "Mascara is an indispensable item on the women's dressing table. This eyelash curler helps curl lashes longer and thicker, for big, round eyes, with accents, attracting all eyes. If you are looking for an affordable, quality mascara then the Catrice Glam & Doll Sculpt & Volume Mascara is the right choice.",
+    "img3": "assets/image/mascara/mas16_2.jpeg",
+    "img2": "assets/image/mascara/mas16_1.jpeg",
+    "img": "assets/image/mascara/mas16.jpeg"
+}]

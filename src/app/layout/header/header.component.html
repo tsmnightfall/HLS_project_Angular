@@ -11,8 +11,8 @@
                              <i class="fa fa-user" aria-hidden="true" style="font-size: 24px;"></i>
                         </button>
                 <ul class="dropdown-menu dropdown-menu dropdown-menu-lg-end">
-                    <li><button class="dropdown-item" type="button"><a routerLink="login">Login</a></button></li>
-                    <li><button class="dropdown-item" type="button"><a routerLink="signup">Sign up</a></button></li>
+                    <li routerLink="login"><button class="dropdown-item" type="button">Login</button></li>
+                    <li routerLink="signup"><button class="dropdown-item" type="button">Signup</button></li>
 
                 </ul>
             </div>
@@ -27,7 +27,7 @@
                 <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" [(ngModel)]=" keyword">
             </div>
             <div class="searchResult col-12 align-self-center position-absolute start-50 translate-middle-x" style=" z-index: 1000; margin: 0 auto; overflow-y: auto; max-height: 300px; margin-bottom: 3%; background: white; top: 100%;">
-                <span *ngFor="let item of listsearch | search:keyword" (click)="clickSearch(item.id)" class="w-100 "><a (click)="sang(item.id)" class="row" style="font-family: Italiana; padding: 1%; border-bottom: 1px solid black;"><img src="{{item.img}}" class="col-1" style="width: 100px; "><h3 class="col-3  align-self-center text-center">{{item.name}}</h3> <h3 class="col-3 align-self-center text-center">${{item.price}}</h3></a></span>
+                <span *ngFor="let item of listsearch | search:keyword" (click)="clickSearch(item.id)" class="w-100 "><a (click)="sang(item.id)" class="row" style="font-family: Italiana; padding: 1%; border-bottom: 1px solid black;"><img src="{{item.img}}" class="col-1" style="width: 100px; "><h3 class="col-4  align-self-center text-center">{{item.name}}</h3> <h3 class="col-3 align-self-center text-center">${{item.price}}</h3></a></span>
             </div>
         </div>
 

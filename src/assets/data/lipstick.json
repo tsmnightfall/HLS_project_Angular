@@ -1,161 +1,161 @@
 [{
         "id": 65,
-        "name": "lipstick 1",
+        "name": "L'OREAL Chiffon",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 12.6,
+        "detail": "As a follower of the cream lipstick line, you cannot ignore the brand new Velvet Soft Matte Chiffon Signature Cream Lipstick collection from the leading French cosmetic brand L'Oreal. The newly launched product line has stormed on the cosmetic market in recent times.",
         "img3": "assets/image/lipstick/lip1_2.jpeg",
         "img2": "assets/image/lipstick/lip1_1.jpeg",
-        "img": "assets/image/lipstick/lip1.png"
+        "img": "assets/image/lipstick/lip1.jpeg"
     },
     {
         "id": 66,
-        "name": "lipstick 2",
+        "name": "Bioderma Atoderm",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 6,
+        "detail": "Lip balm is an indispensable ingredient in women's bags every day. It not only protects your lips from the bad effects of the external environment, but also helps provide nutrients so that small lips are supplied with enough nutrients and moisture, more beautiful and healthy. Coming from the famous French cosmetic brand Bioderma, Biodema Atoderm Levres lip balm will take care of your lips the best, and help your lips always stay soft and rosy.",
         "img3": "assets/image/lipstick/lip2_2.jpeg",
         "img2": "assets/image/lipstick/lip2_1.jpeg",
-        "img": "assets/image/lipstick/lip2.png"
+        "img": "assets/image/lipstick/lip2.jpeg"
     },
     {
         "id": 67,
-        "name": "lipstick 3",
+        "name": "Curél Lip Balm",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
-        "img3": "assets/image/lipstick/lip3_2.jpeg",
-        "img2": "assets/image/lipstick/lip3_1.jpeg",
-        "img": "assets/image/lipstick/lip3.png"
+        "price": 13,
+        "detail": "A soft, natural pink lips is what any girl wants. However, to get those beautiful lips, it is necessary to undergo a very attentive care process, in which, using lip balm is the minimum method to be able to achieve the most optimal lip balm effect.",
+        "img3": "assets/image/lipstick/lip3_1.jpeg",
+        "img2": "assets/image/lipstick/lip3_2.jpeg",
+        "img": "assets/image/lipstick/lip3.jpeg"
     },
     {
         "id": 68,
-        "name": "lipstick 4",
+        "name": " Espoir Couture Lip Tint ",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 10.9,
+        "detail": "Espoir Couture Lip Tint Shine is a cream lipstick from the Espoir brand with a natural moist shine tint and a fresh palette that gives you plump, full lips. plump, radiant and attractive.",
         "img3": "assets/image/lipstick/lip4_2.jpeg",
         "img2": "assets/image/lipstick/lip4_1.jpeg",
-        "img": "assets/image/lipstick/lip4.png"
+        "img": "assets/image/lipstick/lip4.jpeg"
     },
     {
         "id": 69,
-        "name": "lipstick 5",
+        "name": "3CE Red Recipe",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 13.4,
+        "detail": "Lipstick lovers certainly can't forget on Valentine's Day in 2017, the big 3CE has launched a collection of 3CE Red Recipe Matte Lip Color Lipsticks, making the worldwide cosmetic market wobble. The brilliant red color of the collection has captivated women and created a global buying storm.",
         "img3": "assets/image/lipstick/lip5_2.jpeg",
         "img2": "assets/image/lipstick/lip5_1.jpeg",
-        "img": "assets/image/lipstick/lip5.png"
+        "img": "assets/image/lipstick/lip5.jpeg"
     },
     {
         "id": 70,
-        "name": "lipstick 6",
+        "name": "3CE Glow Lip Balm",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 15.9,
+        "detail": "3CE brand is a famous brand from Korea with product lines with youthful, personality and always resonates in the beauty-loving community every time it launches a new product. 3CE is always leading the beauty trend of Kim Chi from eye and lip makeup trends, to glossy foundation...",
         "img3": "assets/image/lipstick/lip6_2.jpeg",
         "img2": "assets/image/lipstick/lip6_1.jpeg",
-        "img": "assets/image/lipstick/lip6.png"
+        "img": "assets/image/lipstick/lip6.jpeg"
     },
     {
         "id": 71,
-        "name": "lipstick 7",
+        "name": "Romand New Zero Matt",
         "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 8,
+        "detail": "Romand is a cosmetic brand from Korea and is known to a large number of customers through its extremely popular lipstick lines such as Romand Milk Tea Velvet Tint, Romand Juicy Lasting Tint Ripe Fruit, Romand Zero Velvet Tint... Most of the main concepts All lipstick lines are aimed at youthfulness, dynamism, and color, suitable for every girl's needs.",
         "img3": "assets/image/lipstick/lip7_2.jpeg",
         "img2": "assets/image/lipstick/lip7_1.jpeg",
-        "img": "assets/image/lipstick/lip7.png"
+        "img": "assets/image/lipstick/lip7.jpeg"
     },
     {
         "id": 72,
-        "name": "lipstick 8",
+        "name": "Maybelline Lipstick",
         "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 10.3,
+        "detail": "A fresh, seductive lips is always the highlight to help the girls become more beautiful and stand out in the crowd. Therefore, lipstick becomes an indispensable companion in every girl's makeup wardrobe. Maybelline Smooth Brick Lipstick Cream from the popular cosmetic brand Maybelline will be a perfect choice for those who are looking for a beautiful, good quality lipstick.",
         "img3": "assets/image/lipstick/lip8_2.jpeg",
         "img2": "assets/image/lipstick/lip8_1.jpeg",
-        "img": "assets/image/lipstick/lip8.png"
+        "img": "assets/image/lipstick/lip8.jpeg"
     },
     {
         "id": 73,
-        "name": "lipstick 9",
+        "name": "Eglips Blur Powder Tint",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 7.7,
+        "detail": "Eglips is a famous cosmetic brand from Korea, specializing in the production of professional makeup products. In addition to powder, Eglips Blur Powder Tint is the product that makes Eglips more known in the Vietnamese market.",
         "img3": "assets/image/lipstick/lip9_2.jpeg",
         "img2": "assets/image/lipstick/lip9_1.jpeg",
-        "img": "assets/image/lipstick/lip9.png"
+        "img": "assets/image/lipstick/lip9.jpeg"
     },
     {
         "id": 74,
-        "name": "lipstick 10",
+        "name": " Loulou Lip & Cheek",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 14.5,
+        "detail": "Loulou is a famous cosmetic brand from Korea, Loulou's products are researched and manufactured directly in the land of kimchi. For the Vietnamese cosmetic market, Loulou made a big splash when collaborating with Chau Bui - a famous fashionista in Vietnam - to jointly launch Loulou Lip & Cheek Cushion.",
         "img3": "assets/image/lipstick/lip10_2.jpeg",
         "img2": "assets/image/lipstick/lip10_1.jpeg",
-        "img": "assets/image/lipstick/lip10.png"
+        "img": "assets/image/lipstick/lip10.jpeg"
     },
     {
         "id": 75,
-        "name": "lipstick 11",
+        "name": "Black Rouge Creamy",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 6.8,
+        "detail": "Although just a newbie in popular popular Korean cosmetic brands,Black Rouge has been a name that has occupied the most spotlight in recent times,being hunted by lipstick followers no less than seniors.other sister.",
         "img3": "assets/image/lipstick/lip11_2.jpeg",
         "img2": "assets/image/lipstick/lip11_1.jpeg",
-        "img": "assets/image/lipstick/lip11.png"
+        "img": "assets/image/lipstick/lip11.jpeg"
     },
     {
         "id": 76,
-        "name": "lipstick 12",
+        "name": " Romand Zero Velvet Tint",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 7.7,
+        "detail": "After the successful series of 2 old versions, Romand continues to launch more colors 18 to 21 inspired by the very trendy and flattering autumn velvet jackets. After a series of successes of the 2 old versions, Romand continues to launch more colors 18 to 21 inspired by trendy and flattering autumn velvet jackets.",
         "img3": "assets/image/lipstick/lip12_2.jpeg",
         "img2": "assets/image/lipstick/lip12_1.jpeg",
-        "img": "assets/image/lipstick/lip12.png"
+        "img": "assets/image/lipstick/lip12.jpeg"
     },
     {
         "id": 77,
-        "name": "lipstick 13",
+        "name": "Gucci Matte Lipstick",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 31.5,
+        "detail": "When it comes to Gucci, everyone knows that this is one of the most famous fashion brands in the world. Not only that, but Gucci has also entered the beauty industry and has achieved certain successes. Gucci Rouge À Lèvres Mat Matte Lipstick 3.5g lipstick collection is Gucci's cult product, attracting great attention from the public in recent times.",
         "img3": "assets/image/lipstick/lip13_2.jpeg",
         "img2": "assets/image/lipstick/lip13_1.jpeg",
-        "img": "assets/image/lipstick/lip13.png"
+        "img": "assets/image/lipstick/lip13.jpeg"
     },
     {
         "id": 78,
-        "name": "lipstick 14",
+        "name": "Dior Addict Lip Tattoo",
         "name_cate": "HLS",
-        "price": 100,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 28.8,
+        "detail": "The lipstick has a clear earthy orange color, with a little bit of deep red that is very light just enough to make the lipstick color not pale. It's still an earthy orange color, but it's a fragile muse, not a fiery Latin!",
         "img3": "assets/image/lipstick/lip14_2.jpeg",
         "img2": "assets/image/lipstick/lip14_1.jpeg",
-        "img": "assets/image/lipstick/lip14.png"
+        "img": "assets/image/lipstick/lip14.jpeg"
     },
     {
         "id": 79,
-        "name": "lipstick 15",
+        "name": "Dior Lip Balm",
         "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 31.1,
+        "detail": "Dior is the most famous and luxurious brand in the world. Not only fashion, but Dior cosmetics also make the world fascinated by the quality from design to efficiency. In particular, about the lip balm line, the big man Dior makes women wobble before the super product Dior Lip Glow 001.",
         "img3": "assets/image/lipstick/lip15_2.jpeg",
         "img2": "assets/image/lipstick/lip15_1.jpeg",
-        "img": "assets/image/lipstick/lip15.png"
+        "img": "assets/image/lipstick/lip15.jpeg"
     },
     {
         "id": 80,
-        "name": "lipstick 16",
+        "name": "Tom Ford Lip Color",
         "name_cate": "HLS",
-        "price": 50,
-        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "price": 38.6,
+        "detail": "Collection Tom Ford Lip Color Satin Matte is named the favorite child of big man Tom Ford. The perfect combination of two opposite extremes, satin (matte) and matte (matte) in lipstick has created a craze in the cosmetics industry around the world, sought after by beauty believers.",
         "img3": "assets/image/lipstick/lip16_2.jpeg",
         "img2": "assets/image/lipstick/lip16_1.jpeg",
-        "img": "assets/image/lipstick/lip16.png"
+        "img": "assets/image/lipstick/lip16.jpeg"
     }
 ]

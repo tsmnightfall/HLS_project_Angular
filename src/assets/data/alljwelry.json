@@ -1,528 +1,396 @@
 [{
         "id": 1,
-        "name": "Ring 1",
+        "name": "R Moon snow stone",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 17.7,
         "img2": "assets/image/ring/ring1_2.jpg",
         "img": "assets/image/ring/ring1.jpg"
     },
     {
         "id": 2,
-        "name": "Ring 2",
+        "name": "R Cobra snake",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 20.4,
 
         "img2": "assets/image/ring/ring2_2.jpg",
         "img": "assets/image/ring/ring2.jpg"
     },
     {
         "id": 3,
-        "name": "Ring 3",
+        "name": "R Whale tail blue stone",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 15.9,
 
         "img2": "assets/image/ring/ring3_2.jpg",
         "img": "assets/image/ring/ring3.jpg"
     },
     {
         "id": 4,
-        "name": "Ring 4",
+        "name": "R Mini gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 11.3,
         "img2": "assets/image/ring/ring4_2.jpg",
         "img": "assets/image/ring/ring4.jpg"
     },
     {
         "id": 5,
-        "name": "Ring 5",
+        "name": "R big flat circle & tiny gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 20.4,
         "img2": "assets/image/ring/ring5_2.jpg",
         "img": "assets/image/ring/ring5.jpg"
     },
     {
         "id": 6,
-        "name": "Ring 6",
+        "name": "R midi V double leaf gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 17.7,
         "img2": "assets/image/ring/ring6_2.jpg",
         "img": "assets/image/ring/ring6.jpg"
     },
     {
         "id": 7,
-        "name": "Ring 7",
+        "name": "R Thread oxidized gem",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 13.1,
         "img2": "assets/image/ring/ring7_2.jpg",
         "img": "assets/image/ring/ring7.jpg"
     },
     {
         "id": 8,
-        "name": "Ring 8",
+        "name": "R midi snake oxidized",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 17.7,
         "img2": "assets/image/ring/ring8_2.jpg",
         "img": "assets/image/ring/ring8.jpg"
     },
     {
         "id": 9,
-        "name": "Ring 9",
+        "name": "R single big gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 12.2,
         "img2": "assets/image/ring/ring9_2.jpg",
         "img": "assets/image/ring/ring9.jpg"
     },
     {
         "id": 10,
-        "name": "Ring 10",
+        "name": "R midi circle and line",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 11.3,
 
         "img2": "assets/image/ring/ring10_2.jpg",
         "img": "assets/image/ring/ring10.jpg"
     },
     {
         "id": 11,
-        "name": "Ring 11",
+        "name": "R midi little heart gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 13.1,
 
         "img2": "assets/image/ring/ring11_2.jpg",
         "img": "assets/image/ring/ring11.jpg"
     },
     {
         "id": 12,
-        "name": "Ring 12",
+        "name": "R midi double butterfly",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 13.6,
         "img2": "assets/image/ring/ring12_2.jpg",
         "img": "assets/image/ring/ring12.jpg"
     },
     {
         "id": 13,
-        "name": "Ring 13",
+        "name": "R midi big flat rock",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 15.9,
         "img2": "assets/image/ring/ring13_2.jpg",
         "img": "assets/image/ring/ring13.jpg"
     },
     {
         "id": 14,
-        "name": "Ring 14",
+        "name": "R midi triple gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 15.9,
         "img2": "assets/image/ring/ring14_2.jpg",
         "img": "assets/image/ring/ring14.jpg"
     },
     {
         "id": 15,
-        "name": "Ring 15",
+        "name": "R daragonfly and drop gem",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 26.8,
         "img2": "assets/image/ring/ring15_2.jpg",
         "img": "assets/image/ring/ring15.jpg"
     },
     {
         "id": 16,
-        "name": "Ring 16",
+        "name": "R midi twist pattern",
         "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/ring/ring16.jpg",
+        "price": 17.7,
+        "img2": "assets/image/ring/ring16_2.jpg",
         "img": "assets/image/ring/ring16.jpg"
     },
     {
-        "id": 1,
-        "name": "Ring 1",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear1_2.jpg",
-        "img": "assets/image/earing/ear1.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Ring 2",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear2_2.jpg",
-        "img": "assets/image/earing/ear2.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Ring 3",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear3_2.jpg",
-        "img": "assets/image/earing/ear3.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Ring 4",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear4_2.jpg",
-        "img": "assets/image/earing/ear4.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Ring 5",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear5_2.jpg",
-        "img": "assets/image/earing/ear5.jpg"
-    },
-    {
-        "id": 6,
-        "name": "Ring 6",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear6_2.jpg",
-        "img": "assets/image/earing/ear6.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Ring 7",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear7_2.jpg",
-        "img": "assets/image/earing/ear7.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Ring 8",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear8_2.jpg",
-        "img": "assets/image/earing/ear8.jpg"
-    },
-    {
-        "id": 9,
-        "name": "Ring 9",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear9_2.jpg",
-        "img": "assets/image/earing/ear9.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Ring 10",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear10_2.jpg",
-        "img": "assets/image/earing/ear10.jpg"
-    },
-    {
-        "id": 11,
-        "name": "Ring 11",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear11_2.jpg",
-        "img": "assets/image/earing/ear11.jpg"
-    },
-    {
-        "id": 12,
-        "name": "Ring 12",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear12_2.jpg",
-        "img": "assets/image/earing/ear12.jpg"
-    },
-    {
-        "id": 13,
-        "name": "Ring 13",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear13_2.jpg",
-        "img": "assets/image/earing/ear13.jpg"
-    },
-    {
-        "id": 14,
-        "name": "Ring 14",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear14_2.jpg",
-        "img": "assets/image/earing/ear14.jpg"
-    },
-    {
-        "id": 15,
-        "name": "Ring 15",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear15_2.jpg",
-        "img": "assets/image/earing/ear15.jpg"
-    },
-    {
-        "id": 16,
-        "name": "Ring 16",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear16_2.jpg",
-        "img": "assets/image/earing/ear16.jpg"
-    },
-    {
         "id": 17,
-        "name": "Necklace 1",
+        "name": "N circle drop snail",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 15,
         "img2": "assets/image/necklace/neck1_2.jpg",
         "img": "assets/image/necklace/neck1.jpg"
     },
     {
         "id": 18,
-        "name": "Necklace 2",
+        "name": "N big crown blue sone",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 22,
 
         "img2": "assets/image/necklace/neck2_2.jpg",
         "img": "assets/image/necklace/neck2.jpg"
     },
     {
         "id": 19,
-        "name": "Necklace 3",
+        "name": "N double blue stone",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 17,
 
         "img2": "assets/image/necklace/neck3_2.jpg",
         "img": "assets/image/necklace/neck3.jpg"
     },
     {
         "id": 20,
-        "name": "Necklace 4",
+        "name": "N universe blue stone",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 23,
         "img2": "assets/image/necklace/neck4_2.jpg",
         "img": "assets/image/necklace/neck4.jpg"
     },
     {
         "id": 21,
-        "name": "Necklace 5",
+        "name": "N triple heart tiny gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7,
         "img2": "assets/image/necklace/neck5_2.jpg",
         "img": "assets/image/necklace/neck5.jpg"
     },
     {
         "id": 22,
-        "name": "Necklace 6",
+        "name": "N dream catcher oxidized",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 13,
         "img2": "assets/image/necklace/neck6_2.jpg",
         "img": "assets/image/necklace/neck6.jpg"
     },
     {
         "id": 23,
-        "name": "Necklace 7",
+        "name": "N cross oxidized pattern",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 8,
         "img2": "assets/image/necklace/neck7_2.jpg",
         "img": "assets/image/necklace/neck7.jpg"
     },
     {
         "id": 24,
-        "name": "Necklace 8",
+        "name": "N compass",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 12,
         "img2": "assets/image/necklace/neck8_2.jpg",
         "img": "assets/image/necklace/neck8.jpg"
     },
     {
         "id": 25,
-        "name": "Necklace 9",
+        "name": "N big snow fire",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 18,
         "img2": "assets/image/necklace/neck9_2.jpg",
         "img": "assets/image/necklace/neck9.jpg"
     },
     {
         "id": 26,
-        "name": "Necklace 10",
+        "name": "N big lavender",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 20,
 
         "img2": "assets/image/necklace/neck10_2.jpg",
         "img": "assets/image/necklace/neck10.jpg"
     },
     {
         "id": 27,
-        "name": "Necklace 11",
+        "name": "N heart",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 6,
 
         "img2": "assets/image/necklace/neck11_2.jpg",
         "img": "assets/image/necklace/neck11.jpg"
     },
     {
         "id": 28,
-        "name": "Necklace 12",
+        "name": "N 6mm CZ gem stone",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 21,
         "img2": "assets/image/necklace/neck12_2.jpg",
         "img": "assets/image/necklace/neck12.jpg"
     },
     {
         "id": 29,
-        "name": "Necklace 13",
+        "name": "N tree of life",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 9.7,
         "img2": "assets/image/necklace/neck13_2.jpg",
         "img": "assets/image/necklace/neck13.jpg"
     },
     {
         "id": 30,
-        "name": "Necklace 14",
+        "name": "N opal sin gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 25,
         "img2": "assets/image/necklace/neck14_2.jpg",
         "img": "assets/image/necklace/neck14.jpg"
     },
     {
         "id": 31,
-        "name": "Necklace 15",
+        "name": "CH velvet fire snow drop",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 15,
         "img2": "assets/image/necklace/neck15_2.jpg",
         "img": "assets/image/necklace/neck15.jpg"
     },
     {
         "id": 32,
-        "name": "Necklace 16",
+        "name": "N star moon gem",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 9,
         "img2": "assets/image/necklace/neck16_2.jpg",
         "img": "assets/image/necklace/neck16.jpg"
     },
     {
         "id": 33,
-        "name": "Earring 1",
+        "name": "E stud snake long chain",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 17.7,
         "img2": "assets/image/earing/ear1_2.jpg",
         "img": "assets/image/earing/ear1.jpg"
     },
     {
         "id": 34,
-        "name": "Earring 2",
+        "name": "E stud curve pole and ball",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 13.1,
 
         "img2": "assets/image/earing/ear2_2.jpg",
         "img": "assets/image/earing/ear2.jpg"
     },
     {
         "id": 35,
-        "name": "Earring 3",
+        "name": "E stud tiny gem star",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7,
 
         "img2": "assets/image/earing/ear3_2.jpg",
         "img": "assets/image/earing/ear3.jpg"
     },
     {
         "id": 36,
-        "name": "Earring 4",
+        "name": "E stud C curve oxidize",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 10.2,
         "img2": "assets/image/earing/ear4_2.jpg",
         "img": "assets/image/earing/ear4.jpg"
     },
     {
         "id": 37,
-        "name": "Earring 5",
+        "name": "E stud chain ball daragonfly",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 17.7,
         "img2": "assets/image/earing/ear5_2.jpg",
         "img": "assets/image/earing/ear5.jpg"
     },
     {
         "id": 38,
-        "name": "Earring 6",
+        "name": "E stud bow gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 10,
         "img2": "assets/image/earing/ear6_2.jpg",
         "img": "assets/image/earing/ear6.jpg"
     },
     {
         "id": 39,
-        "name": "Earring 7",
+        "name": "E stud curve line big ball",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 12,
         "img2": "assets/image/earing/ear7_2.jpg",
         "img": "assets/image/earing/ear7.jpg"
     },
     {
         "id": 40,
-        "name": "Earring 8",
+        "name": "E stud circle wing oxidized",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 11.3,
         "img2": "assets/image/earing/ear8_2.jpg",
         "img": "assets/image/earing/ear8.jpg"
     },
     {
         "id": 41,
-        "name": "Earring 9",
+        "name": "E stub big bow gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 13,
         "img2": "assets/image/earing/ear9_2.jpg",
         "img": "assets/image/earing/ear9.jpg"
     },
     {
         "id": 42,
-        "name": "Earring 10",
+        "name": "E stub half butterfly ",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7,
 
         "img2": "assets/image/earing/ear10_2.jpg",
         "img": "assets/image/earing/ear10.jpg"
     },
     {
         "id": 43,
-        "name": "Earring 11",
+        "name": "E stub firework star gem",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7,
 
         "img2": "assets/image/earing/ear11_2.jpg",
         "img": "assets/image/earing/ear11.jpg"
     },
     {
         "id": 44,
-        "name": "Earring 12",
+        "name": "E stub fat cross",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 4.7,
         "img2": "assets/image/earing/ear12_2.jpg",
         "img": "assets/image/earing/ear12.jpg"
     },
     {
         "id": 45,
-        "name": "Earring 13",
+        "name": "E stub plane",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 5.3,
         "img2": "assets/image/earing/ear13_2.jpg",
         "img": "assets/image/earing/ear13.jpg"
     },
     {
         "id": 46,
-        "name": "Earring 14",
+        "name": "E stud gem coin square",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7.2,
         "img2": "assets/image/earing/ear14_2.jpg",
         "img": "assets/image/earing/ear14.jpg"
     },
     {
         "id": 47,
-        "name": "Earring 15",
+        "name": "E drop big circle star fish",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 12,
         "img2": "assets/image/earing/ear15_2.jpg",
         "img": "assets/image/earing/ear15.jpg"
     },
     {
         "id": 48,
-        "name": "Earring 16",
+        "name": "EC twisted oxidize",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 3,
         "img2": "assets/image/earing/ear16_2.jpg",
         "img": "assets/image/earing/ear16.jpg"
     }

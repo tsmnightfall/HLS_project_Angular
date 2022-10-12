@@ -1,397 +1,468 @@
 [{
         "id": 49,
-        "name": "Cleanser 1",
+        "name": " Innisfree Supper Volcanic",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 10,
+        "detail": "Double the ability to remove sebum with Innisfree Super Volcanic Pore Micellar 2X Cleanser 150ml.Is a facial cleanser containing volcanic ash powder and deep cleansing Jeju Volcanic Cluster SphereTM formula only available at Innisfree.",
+        "img3": "assets/image/cleanser/clean1_2.jpeg",
         "img2": "assets/image/cleanser/clean1_1.jpeg",
         "img": "assets/image/cleanser/clean1.jpeg"
     },
     {
         "id": 50,
-        "name": "Cleanser 2",
+        "name": "Vichy Cleanser",
         "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/cleanser/clean2_1.png",
+        "price": 15,
+        "detail": "Vichy Purete Thermale 3in1 One Step Cleanser is a skin cleansing product from Vichy cosmetic brand, with 3 effects in 1: cleanser, skin softener and eye and lip makeup remover; Helps clean skin, remove makeup and impurities, leaving skin bright and cool without causing dryness.",
+        "img3": "assets/image/cleanser/clean2_2.jpeg",
+        "img2": "assets/image/cleanser/clean2_1.jpeg",
         "img": "assets/image/cleanser/clean2.jpeg"
     },
     {
         "id": 51,
-        "name": "Cleanser 3",
+        "name": "Cetaphil Gentle Skin",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 14.5,
+        "detail": "Cleansing is the first and most important step in skin care. If there is still dirt, sebum, dead cells on the skin ... then no matter how divine skin care products are used,they will not be effective.Understanding that,he famous skin care brand Cetaphil from Canada has launched the Cetaphil Gentle Skin Cleanser product line.",
+        "img3": "assets/image/cleanser/clean3_2.jpeg",
         "img2": "assets/image/cleanser/clean3_1.jpeg",
         "img": "assets/image/cleanser/clean3.jpeg"
     },
     {
         "id": 52,
-        "name": "Cleanser 4",
+        "name": "Eucerin Cleanser",
         "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/cleanser/clean4_1.png",
-        "img": "assets/image/cleanser/clean4.png"
+        "price": 22.5,
+        "detail": "Sunlight, pollution, hormonal changes and the effects of age are the causes of skin darkening, dullness, or dark spots, freckles, making women look older than their age and lose weight. confident. Therefore, the presence of products that can both clean dirt and brighten skin is considered a treasure for girls with less fresh skin.",
+        "img3": "assets/image/cleanser/clean4_2.jpeg",
+        "img2": "assets/image/cleanser/clean4_1.jpeg",
+        "img": "assets/image/cleanser/clean4.jpeg"
     },
     {
         "id": 53,
-        "name": "Cleanser 5",
+        "name": "Senka Speedy Perfect Whip",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7.5,
+        "detail": "Senka was launched in 2002 - a famous skin care brand under Shiseido Corporation in Japan. In just a short period of time, Senka has quickly become a leading brand that provides effective skin care products. In 2017, Senka came to the Vietnamese market and was extremely successful when launching perfect whitening and care products, bringing radiant pink and white skin to Vietnamese women.",
+        "img3": "assets/image/cleanser/clean5_2.jpeg",
         "img2": "assets/image/cleanser/clean5_1.jpeg",
         "img": "assets/image/cleanser/clean5.jpeg"
     },
     {
         "id": 54,
-        "name": "Cleanser 6",
+        "name": " Senka Perfect Collagen ",
         "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/cleanser/clean6_1.png",
+        "price": 5.4,
+        "detail": "Senka is known as a famous brand in Japan, specializing in the production of skin care products under the Shiseido group. In 2017, Senka came to the Vietnamese market with its line of skin care products such as facial cleanser, skin whitening cream, sunscreen, makeup remover,... and was quickly received by Vietnamese women. positive.",
+        "img3": "assets/image/cleanser/clean6_2.jpeg",
+        "img2": "assets/image/cleanser/clean6_1.jpeg",
         "img": "assets/image/cleanser/clean6.jpeg"
     },
     {
         "id": 55,
-        "name": "Cleanser 7",
+        "name": "Hada Labo Advanced Nourish",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 3.4,
+        "detail": "Hada Labo is a famous cosmetic brand from Japan with a production process that meets strict GMP pharmaceutical management standards. Hada Labo products are loved for their near-optimal purity of active ingredients, free of harmful impurities. This helps bring quick results to the skin after only a short time of use.",
+        "img3": "assets/image/cleanser/clean7_2.jpeg",
         "img2": "assets/image/cleanser/clean7_1.jpeg",
         "img": "assets/image/cleanser/clean7.jpeg"
     },
     {
         "id": 56,
-        "name": "Cleanser 8",
+        "name": " Innisfree Bija Trouble",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 8.5,
+        "detail": "Innisfree is a cosmetic brand that was born in 2000 in the land of Kim Chi and belongs to the cult group AmorePacific, making the names of other brands such as laneige, Mamonde, Sulwhasoo... Although it has been established for less than 20 years, Innisfree always keeps its place in the beauty world and is loved by a large number of customers.",
+        "img3": "assets/image/cleanser/clean8_2.jpeg",
         "img2": "assets/image/cleanser/clean8_1.jpeg",
         "img": "assets/image/cleanser/clean8.jpeg"
     },
     {
         "id": 57,
-        "name": "Cleanser 9",
+        "name": "Unilever Dove Cleanser",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 4.5,
+        "detail": "Dove Facial Cleansing Foam For Soft, Smooth And Moisturized Skin Beauty Serum Facial Cleansing Foam For Soft, Smooth And Moisturized Skin 130g is a line of facial cleansers from the Dove cosmetic brand of Unilever in the US manufactured according to the formula. Japan, with moisturizing serum essence and Ceramide ingredient to effectively clean dirt, excess oil, remove light makeup and effective sunscreen.",
+        "img3": "assets/image/cleanser/clean9_2.jpeg",
         "img2": "assets/image/cleanser/clean9_1.jpeg",
-        "img": "assets/image/cleanser/clean9.png"
+        "img": "assets/image/cleanser/clean9.jpeg"
     },
     {
         "id": 58,
-        "name": "Cleanser 10",
+        "name": " ST.Ives Gentle Smoothing ",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 6.2,
+        "detail": "Exfoliation is one of the most important steps in a woman's skin care process. Daily skin is subjected to a lot of harmful effects from the external environment, exfoliating will help remove dirt, bacteria and excess dead cells, promoting skin regeneration. Exfoliating Cleanser from St.Ives brand will gently remove rough dead cells, leaving you with smooth, soft and radiant skin.",
+        "img3": "assets/image/cleanser/clean10_2.jpeg",
         "img2": "assets/image/cleanser/clean10_1.jpeg",
         "img": "assets/image/cleanser/clean10.jpeg"
     },
     {
         "id": 59,
-        "name": "Cleanser 11",
+        "name": "Cosrx Low pH Gel Cleanser",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 8,
+        "detail": "The environment is becoming more and more polluted, especially in big cities, dirt, bacteria cling to the skin, causing skin damage. Most of the causes of acne are due to the skin secreting too much oil along with bacteria and dirt from the environment, causing clogged pores, making acne worse.",
+        "img3": "assets/image/cleanser/clean11_2.jpeg",
         "img2": "assets/image/cleanser/clean11_1.jpeg",
         "img": "assets/image/cleanser/clean11.jpeg"
     },
     {
         "id": 60,
-        "name": "Cleanser 12",
+        "name": "Rice Cleanser",
         "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/cleanser/clean12_1.png",
-        "img": "assets/image/cleanser/clean12.png"
+        "price": 7.9,
+        "detail": "The Face Shop has many popular skin care lines with all segments from affordable to high-end. Among these lines, Rice Water (the product line extracted from rice) is the most popular. And referring to The Face Shop's Rice Water, it's impossible not to mention its cult cleanser called The Face Shop Rice Water Bright Cleansing Foam.",
+        "img3": "assets/image/cleanser/clean12_2.jpeg",
+        "img2": "assets/image/cleanser/clean12_1.jpeg",
+        "img": "assets/image/cleanser/clean12.jpeg"
     },
     {
         "id": 61,
-        "name": "Cleanser 13",
+        "name": "Bio-Essence Cleanser",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7.7,
+        "detail": "Cleansing is the first and most important step in skin care. Because the skin is clean, it can optimally absorb the nutrients in the next skin care steps. Therefore, it is essential to choose an effective cleaning product. If you are looking for a product that both helps deep clean and helps to nourish the skin, Bio-Essence Bird's Nest Facial Cleanser 100g is the right choice.",
+        "img3": "assets/image/cleanser/clean13_2.jpeg",
         "img2": "assets/image/cleanser/clean13_1.jpeg",
         "img": "assets/image/cleanser/clean13.jpeg"
     },
+
     {
         "id": 62,
-        "name": "Cleanser 14",
+        "name": "Gernier Cleanser",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 2.7,
+        "detail": "Garnier is a French cosmetic brand founded in 1904. Up to now, the company has more than 100 years of establishment and has coverage in more than 65 different countries around the world. Most popular are Asian countries like China, India, Japan and Garnier ranked 83rd most trusted brand of India according to Brand Trust Report in 2014.",
+        "img3": "assets/image/cleanser/clean14_2.jpeg",
         "img2": "assets/image/cleanser/clean14_1.jpeg",
         "img": "assets/image/cleanser/clean14.jpeg"
     },
     {
         "id": 63,
-        "name": "Cleanser 15",
+        "name": "Hatomugi Cleanser",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 5,
+        "detail": "Hatomugi is a cosmetic brand belonging to a subsidiary of KUMANO Cosmetics group from Japan. The company was established in 1953 and has now had nearly 70 years of establishment and development. Hatomugi's products stand out with ingredients extracted from nature such as willow seeds, horse oil, camellia essence, shea butter ... safe and benign for all skin types.",
+        "img3": "assets/image/cleanser/clean15_2.jpeg",
         "img2": "assets/image/cleanser/clean15_1.jpeg",
         "img": "assets/image/cleanser/clean15.jpeg"
     },
     {
         "id": 64,
-        "name": "Cleanser 16",
+        "name": "Huxley Gel Cleanser",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 13.7,
+        "detail": "For those who have sensitive skin or are confused in choosing a suitable cleanser without causing damage and irritation, the HUXLEY Secret Of Sahara Cleansing Gel - Be Clean, Be Moist is the number 1 choice. Because the product is gentle, it helps to deep clean and protect the skin against harmful effects from the environment or age.",
+        "img3": "assets/image/cleanser/clean16_2.jpeg",
         "img2": "assets/image/cleanser/clean16_1.jpeg",
         "img": "assets/image/cleanser/clean16.jpeg"
     },
+
     {
         "id": 65,
-        "name": "lipstick 1",
+        "name": "L'OREAL Chiffon Lipsitck",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 12.6,
+        "detail": "As a follower of the cream lipstick line, you cannot ignore the brand new Velvet Soft Matte Chiffon Signature Cream Lipstick collection from the leading French cosmetic brand L'Oreal. The newly launched product line has stormed on the cosmetic market in recent times.",
+        "img3": "assets/image/lipstick/lip1_2.jpeg",
         "img2": "assets/image/lipstick/lip1_1.jpeg",
-        "img": "assets/image/lipstick/lip1.png"
+        "img": "assets/image/lipstick/lip1.jpeg"
     },
     {
         "id": 66,
-        "name": "lipstick 2",
+        "name": "Bioderma Atoderm Lip Balm ",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 6,
+        "detail": "Lip balm is an indispensable ingredient in women's bags every day. It not only protects your lips from the bad effects of the external environment, but also helps provide nutrients so that small lips are supplied with enough nutrients and moisture, more beautiful and healthy. Coming from the famous French cosmetic brand Bioderma, Biodema Atoderm Levres lip balm will take care of your lips the best, and help your lips always stay soft and rosy.",
+        "img3": "assets/image/lipstick/lip2_2.jpeg",
         "img2": "assets/image/lipstick/lip2_1.jpeg",
         "img": "assets/image/lipstick/lip2.jpeg"
     },
     {
         "id": 67,
-        "name": "lipstick 3",
+        "name": "Curél Lip Balm",
         "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/lipstick/lip3_1.jpeg",
+        "price": 13,
+        "detail": "A soft, natural pink lips is what any girl wants. However, to get those beautiful lips, it is necessary to undergo a very attentive care process, in which, using lip balm is the minimum method to be able to achieve the most optimal lip balm effect.",
+        "img3": "assets/image/lipstick/lip3_1.jpeg",
+        "img2": "assets/image/lipstick/lip3_2.jpeg",
         "img": "assets/image/lipstick/lip3.jpeg"
     },
     {
         "id": 68,
-        "name": "lipstick 4",
+        "name": " Espoir Couture Lip Tint ",
         "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/lipstick/lip4_1.png",
+        "price": 10.9,
+        "detail": "Espoir Couture Lip Tint Shine is a cream lipstick from the Espoir brand with a natural moist shine tint and a fresh palette that gives you plump, full lips. plump, radiant and attractive.",
+        "img3": "assets/image/lipstick/lip4_2.jpeg",
+        "img2": "assets/image/lipstick/lip4_1.jpeg",
         "img": "assets/image/lipstick/lip4.jpeg"
     },
     {
         "id": 69,
-        "name": "lipstick 5",
+        "name": "3CE Red Recipe Matte Lip",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 13.4,
+        "detail": "Lipstick lovers certainly can't forget on Valentine's Day in 2017, the big 3CE has launched a collection of 3CE Red Recipe Matte Lip Color Lipsticks, making the worldwide cosmetic market wobble. The brilliant red color of the collection has captivated women and created a global buying storm.",
+        "img3": "assets/image/lipstick/lip5_2.jpeg",
         "img2": "assets/image/lipstick/lip5_1.jpeg",
         "img": "assets/image/lipstick/lip5.jpeg"
     },
     {
         "id": 70,
-        "name": "lipstick 6",
+        "name": "3CE Glow Lip Balm",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 15.9,
+        "detail": "3CE brand is a famous brand from Korea with product lines with youthful, personality and always resonates in the beauty-loving community every time it launches a new product. 3CE is always leading the beauty trend of Kim Chi from eye and lip makeup trends, to glossy foundation...",
+        "img3": "assets/image/lipstick/lip6_2.jpeg",
         "img2": "assets/image/lipstick/lip6_1.jpeg",
         "img": "assets/image/lipstick/lip6.jpeg"
     },
     {
         "id": 71,
-        "name": "lipstick 7",
+        "name": "Romand New Zero",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 8,
+        "detail": "Romand is a cosmetic brand from Korea and is known to a large number of customers through its extremely popular lipstick lines such as Romand Milk Tea Velvet Tint, Romand Juicy Lasting Tint Ripe Fruit, Romand Zero Velvet Tint... Most of the main concepts All lipstick lines are aimed at youthfulness, dynamism, and color, suitable for every girl's needs.",
+        "img3": "assets/image/lipstick/lip7_2.jpeg",
         "img2": "assets/image/lipstick/lip7_1.jpeg",
-        "img": "assets/image/lipstick/lip7.png"
+        "img": "assets/image/lipstick/lip7.jpeg"
     },
     {
         "id": 72,
-        "name": "lipstick 8",
+        "name": "Maybelline Lipstick",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 10.3,
+        "detail": "A fresh, seductive lips is always the highlight to help the girls become more beautiful and stand out in the crowd. Therefore, lipstick becomes an indispensable companion in every girl's makeup wardrobe. Maybelline Smooth Brick Lipstick Cream from the popular cosmetic brand Maybelline will be a perfect choice for those who are looking for a beautiful, good quality lipstick.",
+        "img3": "assets/image/lipstick/lip8_2.jpeg",
         "img2": "assets/image/lipstick/lip8_1.jpeg",
         "img": "assets/image/lipstick/lip8.jpeg"
     },
     {
         "id": 73,
-        "name": "lipstick 9",
+        "name": "Eglips Blur Powder Tint",
         "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/lipstick/lip9_1.png",
+        "price": 7.7,
+        "detail": "Eglips is a famous cosmetic brand from Korea, specializing in the production of professional makeup products. In addition to powder, Eglips Blur Powder Tint is the product that makes Eglips more known in the Vietnamese market.",
+        "img3": "assets/image/lipstick/lip9_2.jpeg",
+        "img2": "assets/image/lipstick/lip9_1.jpeg",
         "img": "assets/image/lipstick/lip9.jpeg"
     },
     {
         "id": 74,
-        "name": "lipstick 10",
+        "name": " Loulou Lip & Cheek Cushion",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 14.5,
+        "detail": "Loulou is a famous cosmetic brand from Korea, Loulou's products are researched and manufactured directly in the land of kimchi. For the Vietnamese cosmetic market, Loulou made a big splash when collaborating with Chau Bui - a famous fashionista in Vietnam - to jointly launch Loulou Lip & Cheek Cushion.",
+        "img3": "assets/image/lipstick/lip10_2.jpeg",
         "img2": "assets/image/lipstick/lip10_1.jpeg",
         "img": "assets/image/lipstick/lip10.jpeg"
     },
     {
         "id": 75,
-        "name": "lipstick 11",
+        "name": "Black Rouge Creamy",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 6.8,
+        "detail": "Although just a newbie in popular popular Korean cosmetic brands,Black Rouge has been a name that has occupied the most spotlight in recent times,being hunted by lipstick followers no less than seniors.other sister.",
+        "img3": "assets/image/lipstick/lip11_2.jpeg",
         "img2": "assets/image/lipstick/lip11_1.jpeg",
         "img": "assets/image/lipstick/lip11.jpeg"
     },
     {
         "id": 76,
-        "name": "lipstick 12",
+        "name": " Romand Zero Velvet Tint",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7.7,
+        "detail": "After the successful series of 2 old versions, Romand continues to launch more colors 18 to 21 inspired by the very trendy and flattering autumn velvet jackets. After a series of successes of the 2 old versions, Romand continues to launch more colors 18 to 21 inspired by trendy and flattering autumn velvet jackets.",
+        "img3": "assets/image/lipstick/lip12_2.jpeg",
         "img2": "assets/image/lipstick/lip12_1.jpeg",
         "img": "assets/image/lipstick/lip12.jpeg"
     },
     {
         "id": 77,
-        "name": "lipstick 13",
+        "name": "Gucci Matte Lipstick",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 31.5,
+        "detail": "When it comes to Gucci, everyone knows that this is one of the most famous fashion brands in the world. Not only that, but Gucci has also entered the beauty industry and has achieved certain successes. Gucci Rouge À Lèvres Mat Matte Lipstick 3.5g lipstick collection is Gucci's cult product, attracting great attention from the public in recent times.",
+        "img3": "assets/image/lipstick/lip13_2.jpeg",
         "img2": "assets/image/lipstick/lip13_1.jpeg",
         "img": "assets/image/lipstick/lip13.jpeg"
     },
     {
         "id": 78,
-        "name": "lipstick 14",
+        "name": "Dior Addict Lip Tattoo",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 28.8,
+        "detail": "The lipstick has a clear earthy orange color, with a little bit of deep red that is very light just enough to make the lipstick color not pale. It's still an earthy orange color, but it's a fragile muse, not a fiery Latin!",
+        "img3": "assets/image/lipstick/lip14_2.jpeg",
         "img2": "assets/image/lipstick/lip14_1.jpeg",
-        "img": "assets/image/lipstick/lip14.png"
+        "img": "assets/image/lipstick/lip14.jpeg"
     },
     {
         "id": 79,
-        "name": "lipstick 15",
+        "name": "Dior Lip Balm",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 31.1,
+        "detail": "Dior is the most famous and luxurious brand in the world. Not only fashion, but Dior cosmetics also make the world fascinated by the quality from design to efficiency. In particular, about the lip balm line, the big man Dior makes women wobble before the super product Dior Lip Glow 001.",
+        "img3": "assets/image/lipstick/lip15_2.jpeg",
         "img2": "assets/image/lipstick/lip15_1.jpeg",
         "img": "assets/image/lipstick/lip15.jpeg"
     },
     {
         "id": 80,
-        "name": "lipstick 16",
+        "name": "Tom Ford Lip Color",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 38.6,
+        "detail": "Collection Tom Ford Lip Color Satin Matte is named the favorite child of big man Tom Ford. The perfect combination of two opposite extremes, satin (matte) and matte (matte) in lipstick has created a craze in the cosmetics industry around the world, sought after by beauty believers.",
+        "img3": "assets/image/lipstick/lip16_2.jpeg",
         "img2": "assets/image/lipstick/lip16_1.jpeg",
         "img": "assets/image/lipstick/lip16.jpeg"
     },
     {
         "id": 81,
-        "name": "mascara 1",
+        "name": "Silkygirl Big Eye Mascara ",
         "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/mascara/mas1_1.png",
+        "price": 9,
+        "detail": "Silkygirl is a cosmetic brand of AGC Group specializing in makeup products researched and developed in Singapore. For many years in a row, the company has been honored as the best-selling brand in Singapore and is loved by many women. Hidden in each product is a message that honors the confident beauty of the young generation but still retains the inherent purity.",
+        "img3": "assets/image/mascara/mas1_2.jpeg",
+        "img2": "assets/image/mascara/mas1_1.jpeg",
         "img": "assets/image/mascara/mas1.jpeg"
-    },
-    {
+    }, {
         "id": 82,
-        "name": "mascara 2",
+        "name": "Silkygirl Double Mascara ",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 11.2,
+        "detail": "Silkygirl is a very popular cosmetic brand in Vietnam, originating from Malaysia and the best-selling brand in neighboring Asian countries. Silkygirl's makeup lines are always enthusiastically welcomed by women not only because of their superior quality, multi-use, but also extremely affordable prices.",
+        "img3": "assets/image/mascara/mas2_2.jpeg",
         "img2": "assets/image/mascara/mas2_1.jpeg",
         "img": "assets/image/mascara/mas2.jpeg"
-    },
-    {
+    }, {
         "id": 83,
-        "name": "mascara 3",
+        "name": "Innisfree Skinny Mascara ",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 7.9,
+        "detail": "For those who love Korean cosmetics, the name Innisfree is no longer strange. The products of this beauty brand are famous for their ingredients extracted from nature, specifically extracted from plants in Jeju Island, without parabens, without fragrances, without preservatives, .. .with reasonable price, excellent quality. In the mascara segment, Innisfree also made a big splash with the Innisfree Skinny Microcara Zero Set Mascara.",
+        "img3": "assets/image/mascara/mas3_2.jpeg",
         "img2": "assets/image/mascara/mas3_1.jpeg",
         "img": "assets/image/mascara/mas3.jpeg"
-    },
-    {
+    }, {
         "id": 84,
-        "name": "mascara 4",
+        "name": "L'Oreal Curl Collagene",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 11.8,
+        "detail": "L'Oreal is a cosmetic brand from France with more than 100 years of operation in the market, has a certain position when owning a series of famous cosmetic brands such as Maybelline, NYX, Garnier, La Roche Posay... Right from the start Since its establishment, the company has received the overwhelming support of customers around the world because of the investment of brains in each product as well as the rigorous research process, applying the most advanced modern technology. .",
+        "img3": "assets/image/mascara/mas4_2.jpeg",
         "img2": "assets/image/mascara/mas4_1.jpeg",
         "img": "assets/image/mascara/mas4.jpeg"
-    },
-    {
+    }, {
         "id": 85,
-        "name": "mascara 5",
+        "name": " Browit Mascara",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 6.7,
+        "detail": "Mascara is an indispensable make-up item on a woman's dressing table. The product helps to shape eyelashes, give them long curled eyelashes, create accents on the face and make makeup more perfect. Browit By Nong Chat My Everyday Waterproof Mascara from Thai makeup brand Browit By Nong Chat is the ideal eyelash extension that every girl should own.",
+        "img3": "assets/image/mascara/mas5_2.jpeg",
         "img2": "assets/image/mascara/mas5_1.jpeg",
         "img": "assets/image/mascara/mas5.jpeg"
-    },
-    {
+    }, {
         "id": 86,
-        "name": "mascara 6",
+        "name": "Mistine 2 head Mascara",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 6.1,
+        "detail": "Mascara SUPER MODEL 2 ends has 2 modes of length and thickness at the same time with a formula that does not drift, does not smudge. For you to have a long, voluptuous eyelashes. The product has 2 modes of length and thickness at the same time.",
+        "img3": "assets/image/mascara/mas6_2.jpeg",
         "img2": "assets/image/mascara/mas6_1.jpeg",
         "img": "assets/image/mascara/mas6.jpeg"
-    },
-    {
+    }, {
         "id": 87,
-        "name": "mascara 7",
+        "name": " Collagen Mascara",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 10,
+        "detail": "Mascara is an indispensable tool in the makeup process. The product helps to curl lashes evenly, longer and thicker. Understanding that, the famous cosmetic company from Korea The Face Shop has launched the mascara line The Face Shop Gold Collagen Mascara Volume.",
+        "img3": "assets/image/mascara/mas7_2.jpeg",
         "img2": "assets/image/mascara/mas7_1.jpeg",
         "img": "assets/image/mascara/mas7.jpeg"
-    },
-    {
+    }, {
         "id": 88,
-        "name": "mascara 8",
+        "name": " Curllong J.MUE Mascara",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 6.5,
+        "detail": "The secret to having big, round, glittering eyes that attract all eyes is to have a perfect long curled eyelashes. If you are looking for an affordable, good quality eyelash extension, Mascara Curllong J.MUE from the famous Korean cosmetic brand J.MUE is the right choice.",
+        "img3": "assets/image/mascara/mas8_2.jpeg",
         "img2": "assets/image/mascara/mas8_1.jpeg",
         "img": "assets/image/mascara/mas8.jpeg"
-    },
-    {
+    }, {
         "id": 89,
-        "name": "mascara 9",
+        "name": "Karadium Mascara",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7,
+        "detail": "Mascara Karadium On The Top Fiber from the famous Korean cosmetic brand Karadium, helps to thicken and curl natural eyelashes with its ability to resist drift, waterproof, bring highlights to your eyes. Entering the top 10 most popular Korean beauty products in 2015 alongside big names in the cosmetic industry, this promises to be a stormy product in the beauty-loving community.",
+        "img3": "assets/image/mascara/mas9_2.jpeg",
         "img2": "assets/image/mascara/mas9_1.jpeg",
         "img": "assets/image/mascara/mas9.jpeg"
-    },
-    {
+    }, {
         "id": 90,
-        "name": "mascara 10",
+        "name": "3CE Eyebrow Mascara",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 12.7,
+        "detail": "Eyebrow mascara is a tool for brushing eyebrows similar to regular eyelash mascara. People often use eyebrow mascara to conquer unsightly eyebrows, helping eyebrows look more regular and defined.",
+        "img3": "assets/image/mascara/mas10_2.jpeg",
         "img2": "assets/image/mascara/mas10_1.jpeg",
         "img": "assets/image/mascara/mas10.jpeg"
-    },
-    {
+    }, {
         "id": 91,
-        "name": "mascara 11",
+        "name": "Kiss me Mascara",
         "name_cate": "HLS",
-        "price": 100,
-
+        "price": 11.7,
+        "detail": "Mascara is one of the important makeup tools, indispensable on every girl's dressing table. The product is an effective support tool to help you have a curved, long and thick eyelashes, thereby creating the perfect make-up layer, attracting all eyes.",
+        "img3": "assets/image/mascara/mas11_2.jpeg",
         "img2": "assets/image/mascara/mas11_1.jpeg",
         "img": "assets/image/mascara/mas11.jpeg"
-    },
-    {
+    }, {
         "id": 92,
-        "name": "mascara 12",
+        "name": "Catrice Mascara",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7,
+        "detail": "Catrice is a cosmetic brand that is too familiar to women. Its products are diverse, ranging from makeup products to skin care products. Among them, it is impossible not to mention Mascara Catrice Lashes To Kill Waterproof Volume - the product is rated 5/5 and is the best-selling mascara in Germany.",
+        "img3": "assets/image/mascara/mas12_2.jpeg",
         "img2": "assets/image/mascara/mas12_1.jpeg",
         "img": "assets/image/mascara/mas12.jpeg"
-    },
-    {
+    }, {
         "id": 93,
-        "name": "mascara 13",
+        "name": "Falsies Lash Lift Maybelline",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 10,
+        "detail": "Maybelline Mascara Curl Mi Falsies Lash Lift Mascara 8ml is a mascara line from the American cosmetic brand MAYBELLINE, with a curved brush head design alternating to create a curling effect and lift lashes to achieve maximum bending effect from the base of the eyelashes. along with a waterproof formula suitable for girls who often have outdoor activities and have oily eyelids.",
+        "img3": "assets/image/mascara/mas13_2.jpeg",
         "img2": "assets/image/mascara/mas13_1.jpeg",
         "img": "assets/image/mascara/mas13.jpeg"
-    },
-    {
+    }, {
         "id": 94,
-        "name": "mascara 14",
+        "name": " Daily Proof Mascara",
         "name_cate": "HLS",
-        "price": 100,
+        "price": 7.9,
+        "detail": "The Face Shop is a cosmetic brand from Korea, since its establishment, it has been aiming for the mission of Naturel Story.That is respecting and appreciating the natural values​​ that bring to human life.Therefore, the company 's products stand out with pure natural ingredients, distilling the most quintessential things that nature bestows to help people become healthier and more beautiful.",
+        "img3": "assets/image/mascara/mas14_2.jpeg",
         "img2": "assets/image/mascara/mas14_1.jpeg",
         "img": "assets/image/mascara/mas14.jpeg"
-    },
-    {
+    }, {
         "id": 95,
-        "name": "mascara 15",
+        "name": " Paradise Loreal Mascara",
         "name_cate": "HLS",
-        "price": 50,
+        "price": 10.4,
+        "detail": "For women who often wear makeup, mascara is an extremely necessary product to make the eyes become more attractive. However, mascara often makes her quite inconvenient when outdoors or underwater, it will easily smudge and drift. Therefore, waterproof mascara products, thick eyelashes are always the object that any woman wants to hunt.",
+        "img3": "assets/image/mascara/mas15_2.jpeg",
         "img2": "assets/image/mascara/mas15_1.jpeg",
-        "img": "assets/image/mascara/mas15.png"
-    },
-    {
+        "img": "assets/image/mascara/mas15.jpeg"
+    }, {
         "id": 96,
-        "name": "mascara 16",
+        "name": "Catrice Glam & Doll Sculpt ",
         "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/mascara/mas16_1.png",
+        "price": 7,
+        "detail": "Mascara is an indispensable item on the women's dressing table. This eyelash curler helps curl lashes longer and thicker, for big, round eyes, with accents, attracting all eyes. If you are looking for an affordable, quality mascara then the Catrice Glam & Doll Sculpt & Volume Mascara is the right choice.",
+        "img3": "assets/image/mascara/mas16_2.jpeg",
+        "img2": "assets/image/mascara/mas16_1.jpeg",
         "img": "assets/image/mascara/mas16.jpeg"
     }
-
 ]
