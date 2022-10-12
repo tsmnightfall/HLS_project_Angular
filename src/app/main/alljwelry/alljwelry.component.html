@@ -11,50 +11,14 @@
         <div class="col-lg-10 col-md-10 product-roll product-roll-bestseller text-center">
             <h2>BEST SELLER</h2>
             <owl-carousel-o [options]=" customOptions ">
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                <ng-template carouselSlide *ngFor="let item of alljwelry">
+                    <a (click)="sang(item.id)" class="col-lg-3 col-md-4 col-6">
                         <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/necklace/neck1.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/necklace/neck1_2.jpg">
+                            <img class="card-img-top" src="{{item.img}}" alt="">
+                            <img class="change-img" src="{{item.img2}}">
                             <div class="card-body">
-                                <h4 class="card-title">Necklace 1</h4>
-                                <p class="card-text">100$</p>
-                            </div>
-                        </div>
-                    </a>
-                </ng-template>
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
-                        <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/earing/ear2.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/earing/ear2_2.jpg">
-                            <div class="card-body">
-                                <h4 class="card-title">Earring 2</h4>
-                                <p class="card-text">100$</p>
-                            </div>
-                        </div>
-                    </a>
-                </ng-template>
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
-                        <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/ring/ring3.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/ring/ring3_2.jpg">
-                            <div class="card-body">
-                                <h4 class="card-title">Ring 3</h4>
-                                <p class="card-text">100$</p>
-                            </div>
-                        </div>
-                    </a>
-                </ng-template>
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
-                        <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/ring/ring4.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/ring/ring4_2.jpg">
-                            <div class="card-body">
-                                <h4 class="card-title">Ring 4</h4>
-                                <p class="card-text">100$</p>
+                                <h4 class="card-title">{{item.name}}</h4>
+                                <p class="card-text">{{item.price}}$</p>
                             </div>
                         </div>
                     </a>
@@ -65,50 +29,14 @@
         <div class="col-lg-10 col-md-10 product-roll product-roll-bestseller text-center">
             <h2>NEW ARRIVE</h2>
             <owl-carousel-o [options]=" customOptions ">
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
+                <ng-template carouselSlide *ngFor="let item of alljwelry">
+                    <a (click)="sang(item.id)" class="col-lg-3 col-md-4 col-6">
                         <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/necklace/neck11.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/necklace/neck11_2.jpg">
+                            <img class="card-img-top" src="{{item.img}}" alt="">
+                            <img class="change-img" src="{{item.img2}}">
                             <div class="card-body">
-                                <h4 class="card-title">Necklace 11</h4>
-                                <p class="card-text">100$</p>
-                            </div>
-                        </div>
-                    </a>
-                </ng-template>
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
-                        <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/earing/ear12.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/earing/ear12_2.jpg">
-                            <div class="card-body">
-                                <h4 class="card-title">Earring 12</h4>
-                                <p class="card-text">100$</p>
-                            </div>
-                        </div>
-                    </a>
-                </ng-template>
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
-                        <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/ring/ring13.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/ring/ring13_2.jpg">
-                            <div class="card-body">
-                                <h4 class="card-title">Ring 13</h4>
-                                <p class="card-text">100$</p>
-                            </div>
-                        </div>
-                    </a>
-                </ng-template>
-                <ng-template carouselSlide>
-                    <a routerLink="detail" class="col-lg-3 col-md-4 col-6">
-                        <div class="card">
-                            <img class="card-img-top" src="../../../assets/image/ring/ring14.jpg" alt="">
-                            <img class="change-img" src="../../../assets/image/ring/ring14_2.jpg">
-                            <div class="card-body">
-                                <h4 class="card-title">Ring 14</h4>
-                                <p class="card-text">100$</p>
+                                <h4 class="card-title">{{item.name}}</h4>
+                                <p class="card-text">{{item.price}}$</p>
                             </div>
                         </div>
                     </a>

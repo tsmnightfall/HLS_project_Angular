@@ -22,10 +22,13 @@
                 <a routerLink="cart"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></a>
             </h3>
         </div>
-        <div class="col-lg-8 col-md-8 col-12 align-self-center">
-            <form class="d-flex" role="search">
-                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            </form>
+        <div class="col-lg-8 col-md-8 col-12 align-self-center " style="position: relative;">
+            <div class="d-flex" action="/search" method="get">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" [(ngModel)]=" keyword">
+            </div>
+            <div class="searchResult col-12 align-self-center position-absolute start-50 translate-middle-x" style=" z-index: 1000; margin: 0 auto; overflow-y: auto; max-height: 300px; margin-bottom: 3%; background: white; top: 100%;">
+                <span *ngFor="let item of listsearch | search:keyword" (click)="clickSearch(item.id)" class="w-100 "><a (click)="sang(item.id)" class="row" style="font-family: Italiana; padding: 1%; border-bottom: 1px solid black;"><img src="{{item.img}}" class="col-1" style="width: 100px; "><h3 class="col-3  align-self-center text-center">{{item.name}}</h3> <h3 class="col-3 align-self-center text-center">${{item.price}}</h3></a></span>
+            </div>
         </div>
 
         <div class="col-lg-1 col-md-1 col-1 d-none d-lg-block d-md-block text-center align-self-center">
@@ -47,6 +50,7 @@
         </div>
 
     </header>
+
     <nav class="duel-nav row col-lg-10 col-md-10 col-12">
         <div class="col-lg-3 col-md-3 col-6 text-center duel-nav-jwelry">
             <a routerLink="alljwelry">

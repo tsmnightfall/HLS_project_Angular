@@ -1,187 +1,68 @@
-<div class="container-fluid">
-
-
-    <div class="col-lg-12" style="margin: 0 auto; margin-bottom: 3%; margin-top: 3%; border-top: 1px solid black; border-bottom: 1px solid black; font-family: Italiana;">
-        <h3 class="offset-lg-1 offset-md-1"><a routerLink="home.html">Home</a> / Cart
+<div class="container">
+    <div class="col-lg-12 name-bar" style="margin: 0 auto; margin-bottom: 3%; margin-top: 3%; border-top: 1px solid black; border-bottom: 1px solid black; font-family: Italiana;">
+        <h3 class="col-lg-10">Home / Cart
         </h3>
     </div>
-
-    <body>
-        <section class="h-100 gradient-custom">
-            <div class="row d-flex justify-content-center my-4">
-                <div class="col-md-9">
-                    <div class="card mb-4">
-                        <div class="card-header py-3">
-                            <h5 class="mb-0">Cart Items</h5>
-                        </div>
-                        <div class="card-body" style="padding: 3%;">
-                            <div class="row">
-                                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                                    <!-- Image -->
-                                    <div class="bg-image hover-overlay hover-zoom ripple rounded" data-mdb-ripple-color="light">
-                                        <img src="img/anh2.png" class="w-100" />
-                                        <a routerLink="#!">
-                                            <div class="mask" style="background-color: rgba(251, 251, 251, 0.2)"></div>
-                                        </a>
-                                    </div>
-                                    <!-- Image -->
-                                </div>
-                                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                                    <!-- Data -->
-                                    <p><strong>Bracelet 2</strong></p>
-                                    <p>Size: 52-54</p>
-                                </div>
-                                <div class="col-lg-2 col-md-2 mb-4 mb-lg-0">
-                                    <p class="text-start text-md-center">
-                                        <strong>Price: $17.99</strong>
-                                    </p>
-                                </div>
-                                <div class="col-lg-2 col-md-4 mb-4 mb-lg-0">
-                                    <div class="d-flex mb-4" style="max-width: 170px">
-                                        <button class="btn btn-primary px-3 me-2" onclick="this.parentNode.querySelector('input[type=number]').stepDown()">
-                                                <i class="fas fa-minus"></i>
-                                            </button>
-                                        <div class="form-outline">
-                                            <input id="form1" min="0" name="quantity" value="1" type="number" style="text-align: center;" class="form-control" />
-                                        </div>
-                                        <button class="btn btn-primary px-3 ms-2" onclick="this.parentNode.querySelector('input[type=number]').stepUp()">
-                                                <i class="fas fa-plus"></i>
-                                            </button>
-                                    </div>
-                                </div>
-                                <div class="col-lg-2 col-md-3 mb-4 mb-lg-0">
-                                    <p class="text-start text-md-end">
-                                        <strong>Subtotal: $17.99</strong>
-                                    </p>
-                                </div>
-                                <div class="col-lg-2 col-md-3 mb-4 mb-lg-0 text-lg-end text-md-end">
-                                    <button type="button" class="btn btn-primary btn-sm me-1 mb-2" data-mdb-toggle="tooltip" title="Remove item">
-                                            <i class="fas fa-trash"></i>
-                                        </button>
-
-                                </div>
-                            </div>
-                            <hr class="my-4" />
-                            <div class="row">
-                                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                                    <!-- Image -->
-                                    <div class="bg-image hover-overlay hover-zoom ripple rounded" data-mdb-ripple-color="light">
-                                        <img src="img/anh1.png" class="w-100" alt="" />
-                                        <a routerLink="#!">
-                                            <div class="mask" style="background-color: rgba(251, 251, 251, 0.2)"></div>
-                                        </a>
-                                    </div>
-                                    <!-- Image -->
-                                </div>
-                                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                                    <!-- Data -->
-                                    <p><strong>Ring 1</strong></p>
-                                    <p>Size: 8</p>
-                                </div>
-                                <div class="col-lg-2 col-md-2 mb-4 mb-lg-0">
-                                    <p class="text-start text-md-center">
-                                        <strong>Price: $17.99</strong>
-                                    </p>
-                                </div>
-                                <div class="col-lg-2 col-md-4 mb-4 mb-lg-0">
-                                    <div class="d-flex mb-4" style="max-width: 170px">
-                                        <button class="btn btn-primary px-3 me-2" onclick="this.parentNode.querySelector('input[type=number]').stepDown()">
-                                                <i class="fas fa-minus"></i>
-                                            </button>
-                                        <div class="form-outline">
-                                            <input id="form1" min="0" name="quantity" value="1" type="number" style="text-align: center;" class="form-control" />
-                                        </div>
-                                        <button class="btn btn-primary px-3 ms-2" onclick="this.parentNode.querySelector('input[type=number]').stepUp()">
-                                                <i class="fas fa-plus"></i>
-                                            </button>
-                                    </div>
-                                </div>
-                                <div class="col-lg-2 col-md-3 mb-4 mb-lg-0">
-                                    <p class="text-start text-md-end">
-                                        <strong>Subtotal: $17.99</strong>
-                                    </p>
-                                </div>
-                                <div class="col-lg-2 col-md-3 mb-4 mb-lg-0 text-lg-end text-md-end">
-                                    <button type="button" class="btn btn-primary btn-sm me-1 mb-2" data-mdb-toggle="tooltip" title="Remove item">
-                                            <i class="fas fa-trash"></i>
-                                    </button>
-                                </div>
-                            </div>
-                            <hr class="my-4" />
-                            <div class="row">
-                                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                                    <div class="bg-image hover-overlay hover-zoom ripple rounded" data-mdb-ripple-color="light">
-                                        <img src="img/anh4.png" class="w-100" alt="" />
-                                        <a routerLink="#!">
-                                            <div class="mask" style="background-color: rgba(251, 251, 251, 0.2)"></div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                                    <p><strong>Cushion</strong></p>
-                                    <p>Color: 01</p>
-                                </div>
-                                <div class="col-lg-2 col-md-2 mb-4 mb-lg-0">
-                                    <p class="text-start text-md-center">
-                                        <strong>Price: $17.99</strong>
-                                    </p>
-                                </div>
-                                <div class="col-lg-2 col-md-4 mb-4 mb-lg-0">
-                                    <div class="d-flex mb-4" style="max-width: 170px">
-                                        <button class="btn btn-primary px-3 me-2" onclick="this.parentNode.querySelector('input[type=number]').stepDown()">
-                                                <i class="fas fa-minus"></i>
-                                            </button>
-                                        <div class="form-outline">
-                                            <input id="form1" min="0" name="quantity" value="1" type="number" style="text-align: center;" class="form-control">
-                                        </div>
-                                        <button class="btn btn-primary px-3 ms-2" onclick="this.parentNode.querySelector('input[type=number]').stepUp()">
-                                                <i class="fas fa-plus"></i>
-                                            </button>
-                                    </div>
-                                </div>
-                                <div class="col-lg-2 col-md-3 mb-4 mb-lg-0">
-                                    <p class="text-start text-md-end">
-                                        <strong>Subtotal: $17.99</strong>
-                                    </p>
-                                </div>
-                                <div class="col-lg-2 col-md-3 mb-4 mb-lg-0 text-lg-end text-md-end">
-                                    <button type="button" class="btn btn-primary btn-sm me-1 mb-2" data-mdb-toggle="tooltip" title="Remove item">
-                                            <i class="fas fa-trash"></i>
-                                        </button>
-
-                                </div>
-                            </div>
+    <table id="cart" class="table table-hover table-condensed col-12">
+        <thead>
+            <tr>
+                <th class="col-lg-6 col-md-6">Product</th>
+                <th class="col-lg-1 col-md-1">Price</th>
+                <th class="col-lg-1 col-md-1">Size</th>
+                <th class="col-lg-1 col-md-1">Quantity</th>
+                <th class="text-center col-lg-2 col-md-2">Subtotal</th>
+                <th class="col-lg-1 col-md-1"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td data-th="Product">
+                    <div class="row">
+                        <div class="col-sm-2 hidden-xs"><img src="../../../assets/image/earing/ear1.jpg" width="100%" /></div>
+                        <div class="col-sm-10">
+                            <h4 class="nomargin">Earring 1</h4>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card mb-4">
-                        <div class="card-header py-3" style="padding: 3%;">
-                            <h5 class="mb-0">Summary</h5>
-                        </div>
-                        <div class="card-body" style="padding: 3%;">
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 pb-0">
-                                    Subtotal
-                                    <span>$53.97</span>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center px-0">
-                                    Tax
-                                    <span>$0.00</span>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 mb-3">
-                                    <div>
-                                        <strong>Total amount</strong>
-                                        <strong><p class="mb-0">(including VAT)</p></strong>
-                                    </div>
-                                    <span><strong>$53.97</strong></span>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-primary btn-lg w-100">Proceed to checkout</button>
-                        </div>
-                    </div>
-                </div>
+                </td>
+                <td data-th="Price">$1.99</td>
+                <td data-th="Size">
+                    <input type="number" class="form-control text-center" value="6" min="6" max="12">
+                </td>
+                <td data-th="Quantity">
+                    <input type="number" class="form-control text-center" value="1" min="1">
+                </td>
+                <td data-th="Subtotal" class="text-center">1.99</td>
+                <td class="actions" data-th="">
+                    <button class="btn btn-danger btn-sm"><i class="fa fa-trash" aria-hidden="true"></i></button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="col-12 col-lg-3 col-m-6 offset-lg-9 offset-md-6">
+        <div class="card mb-4">
+            <div class="card-header py-3" style="padding: 3%;">
+                <h5 class="mb-0">Summary</h5>
             </div>
-        </section>
-    </body>
+            <div class="card-body" style="padding: 3%;">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 pb-0">
+                        Subtotal
+                        <span>$53.97</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center px-0">
+                        Tax
+                        <span>$0.00</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center border-0 px-0 mb-3">
+                        <div>
+                            <strong>Total amount</strong>
+                            <strong><p class="mb-0">(including VAT)</p></strong>
+                        </div>
+                        <span><strong>$53.97</strong></span>
+                    </li>
+                </ul>
+                <button type="button" class="btn btn-primary btn-lg w-100">Proceed to checkout</button>
+            </div>
+        </div>
+    </div>
 </div>

@@ -4,6 +4,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring1_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring1_1.jpg",
         "img": "assets/image/ring/ring1.jpg"
     },
@@ -14,6 +15,7 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring2_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring2_1.jpg",
         "img": "assets/image/ring/ring2.jpg"
     },
@@ -24,6 +26,7 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring3_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring3_1.jpg",
         "img": "assets/image/ring/ring3.jpg"
     },
@@ -33,6 +36,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring4_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring4_1.jpg",
         "img": "assets/image/ring/ring4.jpg"
     },
@@ -42,6 +46,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring5_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring5_1.jpg",
         "img": "assets/image/ring/ring5.jpg"
     },
@@ -51,6 +56,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring6_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring6_1.jpg",
         "img": "assets/image/ring/ring6.jpg"
     },
@@ -60,6 +66,7 @@
         "name_cate": "HLS",
         "price": 50,
         "img2": "assets/image/ring/ring7_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring7_1.jpg",
         "img": "assets/image/ring/ring7.jpg"
     },
@@ -69,6 +76,7 @@
         "name_cate": "HLS",
         "price": 50,
         "img2": "assets/image/ring/ring8_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring8_1.jpg",
         "img": "assets/image/ring/ring8.jpg"
     },
@@ -78,6 +86,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring9_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring9_1.jpg",
         "img": "assets/image/ring/ring9.jpg"
     },
@@ -88,6 +97,7 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring10_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring10_1.jpg",
         "img": "assets/image/ring/ring10.jpg"
     },
@@ -98,6 +108,7 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring11_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring11_1.jpg",
         "img": "assets/image/ring/ring11.jpg"
     },
@@ -107,6 +118,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring12_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring12_1.jpg",
         "img": "assets/image/ring/ring12.jpg"
     },
@@ -116,6 +128,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring13_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring13_1.jpg",
         "img": "assets/image/ring/ring13.jpg"
     },
@@ -125,6 +138,7 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring14_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring14_1.jpg",
         "img": "assets/image/ring/ring14.jpg"
     },
@@ -134,6 +148,7 @@
         "name_cate": "HLS",
         "price": 50,
         "img2": "assets/image/ring/ring15_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring15_1.jpg",
         "img": "assets/image/ring/ring15.jpg"
     },
@@ -143,140 +158,9 @@
         "name_cate": "HLS",
         "price": 50,
         "img2": "assets/image/ring/ring16.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
         "img3": "assets/image/ring/ring16_1.jpg",
         "img": "assets/image/ring/ring16.jpg"
-    },
-    {
-        "id": 1,
-        "name": "Ring 1",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear1_2.jpg",
-        "img": "assets/image/earing/ear1.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Ring 2",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear2_2.jpg",
-        "img": "assets/image/earing/ear2.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Ring 3",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear3_2.jpg",
-        "img": "assets/image/earing/ear3.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Ring 4",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear4_2.jpg",
-        "img": "assets/image/earing/ear4.jpg"
-    },
-    {
-        "id": 5,
-        "name": "Ring 5",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear5_2.jpg",
-        "img": "assets/image/earing/ear5.jpg"
-    },
-    {
-        "id": 6,
-        "name": "Ring 6",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear6_2.jpg",
-        "img": "assets/image/earing/ear6.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Ring 7",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear7_2.jpg",
-        "img": "assets/image/earing/ear7.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Ring 8",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear8_2.jpg",
-        "img": "assets/image/earing/ear8.jpg"
-    },
-    {
-        "id": 9,
-        "name": "Ring 9",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear9_2.jpg",
-        "img": "assets/image/earing/ear9.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Ring 10",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear10_2.jpg",
-        "img": "assets/image/earing/ear10.jpg"
-    },
-    {
-        "id": 11,
-        "name": "Ring 11",
-        "name_cate": "HLS",
-        "price": 100,
-
-        "img2": "assets/image/earing/ear11_2.jpg",
-        "img": "assets/image/earing/ear11.jpg"
-    },
-    {
-        "id": 12,
-        "name": "Ring 12",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear12_2.jpg",
-        "img": "assets/image/earing/ear12.jpg"
-    },
-    {
-        "id": 13,
-        "name": "Ring 13",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear13_2.jpg",
-        "img": "assets/image/earing/ear13.jpg"
-    },
-    {
-        "id": 14,
-        "name": "Ring 14",
-        "name_cate": "HLS",
-        "price": 100,
-        "img2": "assets/image/earing/ear14_2.jpg",
-        "img": "assets/image/earing/ear14.jpg"
-    },
-    {
-        "id": 15,
-        "name": "Ring 15",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear15_2.jpg",
-        "img": "assets/image/earing/ear15.jpg"
-    },
-    {
-        "id": 16,
-        "name": "Ring 16",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear16_2.jpg",
-        "img": "assets/image/earing/ear16.jpg"
     },
     {
         "id": 17,
@@ -284,6 +168,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/necklace/neck1_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck1_1.jpg",
         "img": "assets/image/necklace/neck1.jpg"
     },
     {
@@ -291,7 +177,8 @@
         "name": "Necklace 2",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck2_1.jpg",
         "img2": "assets/image/necklace/neck2_2.jpg",
         "img": "assets/image/necklace/neck2.jpg"
     },
@@ -301,6 +188,8 @@
         "name_cate": "HLS",
         "price": 100,
 
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck3_1.jpg",
         "img2": "assets/image/necklace/neck3_2.jpg",
         "img": "assets/image/necklace/neck3.jpg"
     },
@@ -309,6 +198,8 @@
         "name": "Necklace 4",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck4_1.jpg",
         "img2": "assets/image/necklace/neck4_2.jpg",
         "img": "assets/image/necklace/neck4.jpg"
     },
@@ -317,6 +208,8 @@
         "name": "Necklace 5",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck5_1.jpg",
         "img2": "assets/image/necklace/neck5_2.jpg",
         "img": "assets/image/necklace/neck5.jpg"
     },
@@ -325,6 +218,8 @@
         "name": "Necklace 6",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck6_1.jpg",
         "img2": "assets/image/necklace/neck6_2.jpg",
         "img": "assets/image/necklace/neck6.jpg"
     },
@@ -333,6 +228,8 @@
         "name": "Necklace 7",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck7_1.jpg",
         "img2": "assets/image/necklace/neck7_2.jpg",
         "img": "assets/image/necklace/neck7.jpg"
     },
@@ -341,6 +238,8 @@
         "name": "Necklace 8",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck8_1.jpg",
         "img2": "assets/image/necklace/neck8_2.jpg",
         "img": "assets/image/necklace/neck8.jpg"
     },
@@ -349,6 +248,8 @@
         "name": "Necklace 9",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck9_1.jpg",
         "img2": "assets/image/necklace/neck9_2.jpg",
         "img": "assets/image/necklace/neck9.jpg"
     },
@@ -357,7 +258,8 @@
         "name": "Necklace 10",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck10_1.jpg",
         "img2": "assets/image/necklace/neck10_2.jpg",
         "img": "assets/image/necklace/neck10.jpg"
     },
@@ -366,7 +268,8 @@
         "name": "Necklace 11",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck11_1.jpg",
         "img2": "assets/image/necklace/neck11_2.jpg",
         "img": "assets/image/necklace/neck11.jpg"
     },
@@ -375,6 +278,8 @@
         "name": "Necklace 12",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck12_1.jpg",
         "img2": "assets/image/necklace/neck12_2.jpg",
         "img": "assets/image/necklace/neck12.jpg"
     },
@@ -383,6 +288,8 @@
         "name": "Necklace 13",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck13_1.jpg",
         "img2": "assets/image/necklace/neck13_2.jpg",
         "img": "assets/image/necklace/neck13.jpg"
     },
@@ -391,6 +298,8 @@
         "name": "Necklace 14",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck14_1.jpg",
         "img2": "assets/image/necklace/neck14_2.jpg",
         "img": "assets/image/necklace/neck14.jpg"
     },
@@ -399,6 +308,8 @@
         "name": "Necklace 15",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck15_1.jpg",
         "img2": "assets/image/necklace/neck15_2.jpg",
         "img": "assets/image/necklace/neck15.jpg"
     },
@@ -407,6 +318,8 @@
         "name": "Necklace 16",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck16_1.jpg",
         "img2": "assets/image/necklace/neck16_2.jpg",
         "img": "assets/image/necklace/neck16.jpg"
     },
@@ -415,6 +328,8 @@
         "name": "Earring 1",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear1_1.jpg",
         "img2": "assets/image/earing/ear1_2.jpg",
         "img": "assets/image/earing/ear1.jpg"
     },
@@ -423,7 +338,8 @@
         "name": "Earring 2",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear2_1.jpg",
         "img2": "assets/image/earing/ear2_2.jpg",
         "img": "assets/image/earing/ear2.jpg"
     },
@@ -432,7 +348,8 @@
         "name": "Earring 3",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear3_1.jpg",
         "img2": "assets/image/earing/ear3_2.jpg",
         "img": "assets/image/earing/ear3.jpg"
     },
@@ -441,6 +358,8 @@
         "name": "Earring 4",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear4_1.jpg",
         "img2": "assets/image/earing/ear4_2.jpg",
         "img": "assets/image/earing/ear4.jpg"
     },
@@ -449,6 +368,8 @@
         "name": "Earring 5",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear5_1.jpg",
         "img2": "assets/image/earing/ear5_2.jpg",
         "img": "assets/image/earing/ear5.jpg"
     },
@@ -457,6 +378,8 @@
         "name": "Earring 6",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear6_1.jpg",
         "img2": "assets/image/earing/ear6_2.jpg",
         "img": "assets/image/earing/ear6.jpg"
     },
@@ -465,6 +388,8 @@
         "name": "Earring 7",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear7_1.jpg",
         "img2": "assets/image/earing/ear7_2.jpg",
         "img": "assets/image/earing/ear7.jpg"
     },
@@ -473,6 +398,8 @@
         "name": "Earring 8",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear8_1.jpg",
         "img2": "assets/image/earing/ear8_2.jpg",
         "img": "assets/image/earing/ear8.jpg"
     },
@@ -481,6 +408,8 @@
         "name": "Earring 9",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear9_1.jpg",
         "img2": "assets/image/earing/ear9_2.jpg",
         "img": "assets/image/earing/ear9.jpg"
     },
@@ -490,6 +419,8 @@
         "name_cate": "HLS",
         "price": 100,
 
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear10_1.jpg",
         "img2": "assets/image/earing/ear10_2.jpg",
         "img": "assets/image/earing/ear10.jpg"
     },
@@ -499,6 +430,8 @@
         "name_cate": "HLS",
         "price": 100,
 
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear11_1.jpg",
         "img2": "assets/image/earing/ear11_2.jpg",
         "img": "assets/image/earing/ear11.jpg"
     },
@@ -507,6 +440,8 @@
         "name": "Earring 12",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear12_1.jpg",
         "img2": "assets/image/earing/ear12_2.jpg",
         "img": "assets/image/earing/ear12.jpg"
     },
@@ -515,6 +450,8 @@
         "name": "Earring 13",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear13_1.jpg",
         "img2": "assets/image/earing/ear13_2.jpg",
         "img": "assets/image/earing/ear13.jpg"
     },
@@ -523,6 +460,8 @@
         "name": "Earring 14",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear14_1.jpg",
         "img2": "assets/image/earing/ear14_2.jpg",
         "img": "assets/image/earing/ear14.jpg"
     },
@@ -531,364 +470,490 @@
         "name": "Earring 15",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear15_1.jpg",
         "img2": "assets/image/earing/ear15_2.jpg",
         "img": "assets/image/earing/ear15.jpg"
     },
     {
-        "id": 48,
-        "name": "Earring 16",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear16_2.jpg",
-        "img": "assets/image/earing/ear16.jpg"
-    },
-    {
         "id": 49,
-        "name": "Ring 1",
+        "name": "Cleanser 1",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean1_2.jpeg",
+        "img2": "assets/image/cleanser/clean1_1.jpeg",
+        "img": "assets/image/cleanser/clean1.jpeg"
     },
     {
         "id": 50,
-        "name": "Ring 2",
+        "name": "Cleanser 2",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean2_2.jpeg",
+        "img2": "assets/image/cleanser/clean2_1.jpeg",
+        "img": "assets/image/cleanser/clean2.jpeg"
     },
     {
         "id": 51,
-        "name": "Ring 3",
+        "name": "Cleanser 3",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean3_2.jpeg",
+        "img2": "assets/image/cleanser/clean3_1.jpeg",
+        "img": "assets/image/cleanser/clean3.jpeg"
     },
     {
         "id": 52,
-        "name": "Ring 4",
+        "name": "Cleanser 4",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean4_2.png",
+        "img2": "assets/image/cleanser/clean4_1.png",
+        "img": "assets/image/cleanser/clean4.png"
     },
     {
         "id": 53,
-        "name": "Ring 5",
+        "name": "Cleanser 5",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean5_2.jpeg",
+        "img2": "assets/image/cleanser/clean5_1.jpeg",
+        "img": "assets/image/cleanser/clean5.jpeg"
     },
     {
         "id": 54,
-        "name": "Ring 6",
+        "name": "Cleanser 6",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean6_2.jpeg",
+        "img2": "assets/image/cleanser/clean6_1.jpeg",
+        "img": "assets/image/cleanser/clean6.jpeg"
     },
     {
         "id": 55,
-        "name": "Ring 7",
+        "name": "Cleanser 7",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean7_2.jpeg",
+        "img2": "assets/image/cleanser/clean7_1.jpeg",
+        "img": "assets/image/cleanser/clean7.jpeg"
     },
     {
         "id": 56,
-        "name": "Ring 8",
+        "name": "Cleanser 8",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean8_2.jpeg",
+        "img2": "assets/image/cleanser/clean8_1.jpeg",
+        "img": "assets/image/cleanser/clean8.jpeg"
     },
     {
         "id": 57,
-        "name": "Ring 1",
+        "name": "Cleanser 9",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean9_2.jpeg",
+        "img2": "assets/image/cleanser/clean9_1.jpeg",
+        "img": "assets/image/cleanser/clean9.jpeg"
     },
     {
         "id": 58,
-        "name": "Ring 2",
+        "name": "Cleanser 10",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean10_2.jpeg",
+        "img2": "assets/image/cleanser/clean10_1.jpeg",
+        "img": "assets/image/cleanser/clean10.jpeg"
     },
     {
         "id": 59,
-        "name": "Ring 3",
+        "name": "Cleanser 11",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean11_2.jpeg",
+        "img2": "assets/image/cleanser/clean11_1.jpeg",
+        "img": "assets/image/cleanser/clean11.jpeg"
     },
     {
         "id": 60,
-        "name": "Ring 4",
+        "name": "Cleanser 12",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean12_2.jpeg",
+        "img2": "assets/image/cleanser/clean12_1.jpeg",
+        "img": "assets/image/cleanser/clean12.jpeg"
     },
     {
         "id": 61,
-        "name": "Ring 5",
+        "name": "Cleanser 13",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean13_2.jpeg",
+        "img2": "assets/image/cleanser/clean13_1.jpeg",
+        "img": "assets/image/cleanser/clean13.jpeg"
     },
     {
         "id": 62,
-        "name": "Ring 6",
+        "name": "Cleanser 14",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean14_2.jpeg",
+        "img2": "assets/image/cleanser/clean14_1.jpeg",
+        "img": "assets/image/cleanser/clean14.jpeg"
     },
     {
         "id": 63,
-        "name": "Ring 7",
+        "name": "Cleanser 15",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean15_2.jpeg",
+        "img2": "assets/image/cleanser/clean15_1.jpeg",
+        "img": "assets/image/cleanser/clean15.jpeg"
     },
     {
         "id": 64,
-        "name": "Ring 8",
+        "name": "Cleanser 16",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean16_2.jpeg",
+        "img2": "assets/image/cleanser/clean16_1.jpeg",
+        "img": "assets/image/cleanser/clean16.jpeg"
     },
     {
         "id": 65,
-        "name": "Ring 1",
+        "name": "lipstick 1",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip1_2.jpeg",
+        "img2": "assets/image/lipstick/lip1_1.jpeg",
+        "img": "assets/image/lipstick/lip1.png"
     },
     {
         "id": 66,
-        "name": "Ring 2",
+        "name": "lipstick 2",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip2_2.jpeg",
+        "img2": "assets/image/lipstick/lip2_1.jpeg",
+        "img": "assets/image/lipstick/lip2.png"
     },
     {
         "id": 67,
-        "name": "Ring 3",
+        "name": "lipstick 3",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip3_2.jpeg",
+        "img2": "assets/image/lipstick/lip3_1.jpeg",
+        "img": "assets/image/lipstick/lip3.png"
     },
     {
         "id": 68,
-        "name": "Ring 4",
+        "name": "lipstick 4",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip4_2.jpeg",
+        "img2": "assets/image/lipstick/lip4_1.jpeg",
+        "img": "assets/image/lipstick/lip4.png"
     },
     {
         "id": 69,
-        "name": "Ring 5",
+        "name": "lipstick 5",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip5_2.jpeg",
+        "img2": "assets/image/lipstick/lip5_1.jpeg",
+        "img": "assets/image/lipstick/lip5.png"
     },
     {
         "id": 70,
-        "name": "Ring 6",
+        "name": "lipstick 6",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip6_2.jpeg",
+        "img2": "assets/image/lipstick/lip6_1.jpeg",
+        "img": "assets/image/lipstick/lip6.png"
     },
     {
         "id": 71,
-        "name": "Ring 7",
+        "name": "lipstick 7",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip7_2.jpeg",
+        "img2": "assets/image/lipstick/lip7_1.jpeg",
+        "img": "assets/image/lipstick/lip7.png"
     },
     {
         "id": 72,
-        "name": "Ring 8",
+        "name": "lipstick 8",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip8_2.jpeg",
+        "img2": "assets/image/lipstick/lip8_1.jpeg",
+        "img": "assets/image/lipstick/lip8.png"
     },
     {
         "id": 73,
-        "name": "Ring 1",
+        "name": "lipstick 9",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip9_2.jpeg",
+        "img2": "assets/image/lipstick/lip9_1.jpeg",
+        "img": "assets/image/lipstick/lip9.png"
     },
     {
         "id": 74,
-        "name": "Ring 2",
+        "name": "lipstick 10",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip10_2.jpeg",
+        "img2": "assets/image/lipstick/lip10_1.jpeg",
+        "img": "assets/image/lipstick/lip10.png"
     },
     {
         "id": 75,
-        "name": "Ring 3",
+        "name": "lipstick 11",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip11_2.jpeg",
+        "img2": "assets/image/lipstick/lip11_1.jpeg",
+        "img": "assets/image/lipstick/lip11.png"
     },
     {
         "id": 76,
-        "name": "Ring 4",
+        "name": "lipstick 12",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip12_2.jpeg",
+        "img2": "assets/image/lipstick/lip12_1.jpeg",
+        "img": "assets/image/lipstick/lip12.png"
     },
     {
         "id": 77,
-        "name": "Ring 5",
+        "name": "lipstick 13",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip13_2.jpeg",
+        "img2": "assets/image/lipstick/lip13_1.jpeg",
+        "img": "assets/image/lipstick/lip13.png"
     },
     {
         "id": 78,
-        "name": "Ring 6",
+        "name": "lipstick 14",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip14_2.jpeg",
+        "img2": "assets/image/lipstick/lip14_1.jpeg",
+        "img": "assets/image/lipstick/lip14.png"
     },
     {
         "id": 79,
-        "name": "Ring 7",
+        "name": "lipstick 15",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip15_2.jpeg",
+        "img2": "assets/image/lipstick/lip15_1.jpeg",
+        "img": "assets/image/lipstick/lip15.png"
     },
     {
         "id": 80,
-        "name": "Ring 8",
+        "name": "lipstick 16",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/lipstick/lip16_2.jpeg",
+        "img2": "assets/image/lipstick/lip16_1.jpeg",
+        "img": "assets/image/lipstick/lip16.png"
     },
     {
         "id": 81,
-        "name": "Ring 1",
+        "name": "Mascara 1",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas1_2.png",
+        "img2": "assets/image/mascara/mas1_1.png",
+        "img": "assets/image/mascara/mas1.jpeg"
     },
     {
         "id": 82,
-        "name": "Ring 2",
+        "name": "Mascara 2",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas2_2.png",
+        "img2": "assets/image/mascara/mas2_1.png",
+        "img": "assets/image/mascara/mas2.jpeg"
     },
     {
         "id": 83,
-        "name": "Ring 3",
+        "name": "Mascara 3",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas3_2.png",
+        "img2": "assets/image/mascara/mas3_1.png",
+        "img": "assets/image/mascara/mas3.jpeg"
     },
     {
         "id": 84,
-        "name": "Ring 4",
+        "name": "Mascara 4",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas4_2.png",
+        "img2": "assets/image/mascara/mas4_1.png",
+        "img": "assets/image/mascara/mas4.jpeg"
     },
     {
         "id": 85,
-        "name": "Ring 5",
+        "name": "Mascara 5",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas5_2.png",
+        "img2": "assets/image/mascara/mas5_1.png",
+        "img": "assets/image/mascara/mas5.jpeg"
     },
     {
         "id": 86,
-        "name": "Ring 6",
+        "name": "Mascara 6",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas6_2.png",
+        "img2": "assets/image/mascara/mas6_1.png",
+        "img": "assets/image/mascara/mas6.jpeg"
     },
     {
         "id": 87,
-        "name": "Ring 7",
+        "name": "Mascara 7",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas7_2.png",
+        "img2": "assets/image/mascara/mas7_1.png",
+        "img": "assets/image/mascara/mas7.jpeg"
     },
     {
         "id": 88,
-        "name": "Ring 8",
+        "name": "Mascara 8",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas8_2.png",
+        "img2": "assets/image/mascara/mas8_1.png",
+        "img": "assets/image/mascara/mas8.jpeg"
     },
     {
         "id": 89,
-        "name": "Ring 1",
+        "name": "Mascara 9",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas9_2.png",
+        "img2": "assets/image/mascara/mas9_1.png",
+        "img": "assets/image/mascara/mas9.jpeg"
     },
     {
         "id": 90,
-        "name": "Ring 2",
+        "name": "Mascara 10",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas10_2.png",
+        "img2": "assets/image/mascara/mas10_1.png",
+        "img": "assets/image/mascara/mas10.jpeg"
     },
     {
         "id": 91,
-        "name": "Ring 3",
+        "name": "Mascara 11",
         "name_cate": "HLS",
         "price": 100,
-
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas11_2.png",
+        "img2": "assets/image/mascara/mas11_1.png",
+        "img": "assets/image/mascara/mas11.jpeg"
     },
     {
         "id": 92,
-        "name": "Ring 4",
+        "name": "Mascara 12",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas12_2.png",
+        "img2": "assets/image/mascara/mas12_1.png",
+        "img": "assets/image/mascara/mas12.jpeg"
     },
     {
         "id": 93,
-        "name": "Ring 5",
+        "name": "Mascara 13",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas13_2.png",
+        "img2": "assets/image/mascara/mas13_1.png",
+        "img": "assets/image/mascara/mas13.jpeg"
     },
     {
         "id": 94,
-        "name": "Ring 6",
+        "name": "Mascara 14",
         "name_cate": "HLS",
         "price": 100,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas14_2.png",
+        "img2": "assets/image/mascara/mas14_1.png",
+        "img": "assets/image/mascara/mas14.jpeg"
     },
     {
         "id": 95,
-        "name": "Ring 7",
+        "name": "Mascara 15",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas15_2.jpg",
+        "img2": "assets/image/mascara/mas15_1.jpg",
+        "img": "assets/image/mascara/mas15.png"
     },
     {
         "id": 96,
-        "name": "Ring 8",
+        "name": "Mascara 16",
         "name_cate": "HLS",
         "price": 50,
-        "img": "asset/image/ring/ring1.jpg"
-    }
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas16_2.png",
+        "img2": "assets/image/mascara/mas16_1.png",
+        "img": "assets/image/mascara/mas16.jpeg"
 
+    }
 ]

@@ -1,132 +1,161 @@
 [{
-        "id": 1,
+        "id": 49,
         "name": "Cleanser 1",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick3_2.jpg",
-        "img": "assets/image/lipstick/lipstick3.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean1_2.jpeg",
+        "img2": "assets/image/cleanser/clean1_1.jpeg",
+        "img": "assets/image/cleanser/clean1.jpeg"
     },
     {
-        "id": 2,
+        "id": 50,
         "name": "Cleanser 2",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick3_2.jpg",
-        "img": "assets/image/lipstick/lipstick3.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean2_2.jpeg",
+        "img2": "assets/image/cleanser/clean2_1.jpeg",
+        "img": "assets/image/cleanser/clean2.jpeg"
     },
     {
-        "id": 3,
+        "id": 51,
         "name": "Cleanser 3",
         "name_cate": "HLS",
         "price": 100,
-
-        "img2": "assets/image/lipstick/lipstick3_2.jpg",
-        "img": "assets/image/lipstick/lipstick3.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean3_2.jpeg",
+        "img2": "assets/image/cleanser/clean3_1.jpeg",
+        "img": "assets/image/cleanser/clean3.jpeg"
     },
     {
-        "id": 4,
+        "id": 52,
         "name": "Cleanser 4",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick4_2.jpg",
-        "img": "assets/image/lipstick/lipstick4.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean4_2.jpeg",
+        "img2": "assets/image/cleanser/clean4_1.jpeg",
+        "img": "assets/image/cleanser/clean4.jpeg"
     },
     {
-        "id": 5,
+        "id": 53,
         "name": "Cleanser 5",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick5_2.jpg",
-        "img": "assets/image/lipstick/lipstick5.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean5_2.jpeg",
+        "img2": "assets/image/cleanser/clean5_1.jpeg",
+        "img": "assets/image/cleanser/clean5.jpeg"
     },
     {
-        "id": 6,
+        "id": 54,
         "name": "Cleanser 6",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick6_2.jpg",
-        "img": "assets/image/lipstick/lipstick6.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean6_2.jpeg",
+        "img2": "assets/image/cleanser/clean6_1.jpeg",
+        "img": "assets/image/cleanser/clean6.jpeg"
     },
     {
-        "id": 7,
+        "id": 55,
         "name": "Cleanser 7",
         "name_cate": "HLS",
         "price": 50,
-        "img2": "assets/image/lipstick/lipstick7_2.jpg",
-        "img": "assets/image/lipstick/lipstick7.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean7_2.jpeg",
+        "img2": "assets/image/cleanser/clean7_1.jpeg",
+        "img": "assets/image/cleanser/clean7.jpeg"
     },
     {
-        "id": 8,
+        "id": 56,
         "name": "Cleanser 8",
         "name_cate": "HLS",
         "price": 50,
-        "img2": "assets/image/lipstick/lipstick8_2.jpg",
-        "img": "assets/image/lipstick/lipstick8.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean8_2.jpeg",
+        "img2": "assets/image/cleanser/clean8_1.jpeg",
+        "img": "assets/image/cleanser/clean8.jpeg"
     },
     {
-        "id": 9,
+        "id": 57,
         "name": "Cleanser 9",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick9_2.jpg",
-        "img": "assets/image/lipstick/lipstick9.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean9_2.jpeg",
+        "img2": "assets/image/cleanser/clean9_1.jpeg",
+        "img": "assets/image/cleanser/clean9.jpeg"
     },
     {
-        "id": 10,
+        "id": 58,
         "name": "Cleanser 10",
         "name_cate": "HLS",
         "price": 100,
-
-        "img2": "assets/image/lipstick/lipstick10_2.jpg",
-        "img": "assets/image/lipstick/lipstick10.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean10_2.jpeg",
+        "img2": "assets/image/cleanser/clean10_1.jpeg",
+        "img": "assets/image/cleanser/clean10.jpeg"
     },
     {
-        "id": 11,
+        "id": 59,
         "name": "Cleanser 11",
         "name_cate": "HLS",
         "price": 100,
-
-        "img2": "assets/image/lipstick/lipstick11_2.jpg",
-        "img": "assets/image/lipstick/lipstick11.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean11_2.jpeg",
+        "img2": "assets/image/cleanser/clean11_1.jpeg",
+        "img": "assets/image/cleanser/clean11.jpeg"
     },
     {
-        "id": 12,
+        "id": 60,
         "name": "Cleanser 12",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick12_2.jpg",
-        "img": "assets/image/lipstick/lipstick12.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean12_2.jpeg",
+        "img2": "assets/image/cleanser/clean12_1.jpeg",
+        "img": "assets/image/cleanser/clean12.jpeg"
     },
     {
-        "id": 13,
+        "id": 61,
         "name": "Cleanser 13",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick13_2.jpg",
-        "img": "assets/image/lipstick/lipstick13.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean13_2.jpeg",
+        "img2": "assets/image/cleanser/clean13_1.jpeg",
+        "img": "assets/image/cleanser/clean13.jpeg"
     },
     {
-        "id": 14,
+        "id": 62,
         "name": "Cleanser 14",
         "name_cate": "HLS",
         "price": 100,
-        "img2": "assets/image/lipstick/lipstick14_2.jpg",
-        "img": "assets/image/lipstick/lipstick14.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean14_2.jpeg",
+        "img2": "assets/image/cleanser/clean14_1.jpeg",
+        "img": "assets/image/cleanser/clean14.jpeg"
     },
     {
-        "id": 15,
+        "id": 63,
         "name": "Cleanser 15",
         "name_cate": "HLS",
         "price": 50,
-        "img2": "assets/image/lipstick/lipstick15_2.jpg",
-        "img": "assets/image/lipstick/lipstick15.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean15_2.jpeg",
+        "img2": "assets/image/cleanser/clean15_1.jpeg",
+        "img": "assets/image/cleanser/clean15.jpeg"
     },
     {
-        "id": 16,
+        "id": 64,
         "name": "Cleanser 16",
         "name_cate": "HLS",
         "price": 50,
-        "img2": "assets/image/lipstick/lipstick16_2.jpg",
-        "img": "assets/image/lipstick/lipstick16.jpg"
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/cleanser/clean16_2.jpeg",
+        "img2": "assets/image/cleanser/clean16_1.jpeg",
+        "img": "assets/image/cleanser/clean16.jpeg"
     }
 ]

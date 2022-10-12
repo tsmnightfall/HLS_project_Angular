@@ -3,6 +3,8 @@
         "name": "Earring 1",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear1_1.jpg",
         "img2": "assets/image/earing/ear1_2.jpg",
         "img": "assets/image/earing/ear1.jpg"
     },
@@ -11,7 +13,8 @@
         "name": "Earring 2",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear2_1.jpg",
         "img2": "assets/image/earing/ear2_2.jpg",
         "img": "assets/image/earing/ear2.jpg"
     },
@@ -20,7 +23,8 @@
         "name": "Earring 3",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear3_1.jpg",
         "img2": "assets/image/earing/ear3_2.jpg",
         "img": "assets/image/earing/ear3.jpg"
     },
@@ -29,6 +33,8 @@
         "name": "Earring 4",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear4_1.jpg",
         "img2": "assets/image/earing/ear4_2.jpg",
         "img": "assets/image/earing/ear4.jpg"
     },
@@ -37,6 +43,8 @@
         "name": "Earring 5",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear5_1.jpg",
         "img2": "assets/image/earing/ear5_2.jpg",
         "img": "assets/image/earing/ear5.jpg"
     },
@@ -45,6 +53,8 @@
         "name": "Earring 6",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear6_1.jpg",
         "img2": "assets/image/earing/ear6_2.jpg",
         "img": "assets/image/earing/ear6.jpg"
     },
@@ -53,6 +63,8 @@
         "name": "Earring 7",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear7_1.jpg",
         "img2": "assets/image/earing/ear7_2.jpg",
         "img": "assets/image/earing/ear7.jpg"
     },
@@ -61,6 +73,8 @@
         "name": "Earring 8",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear8_1.jpg",
         "img2": "assets/image/earing/ear8_2.jpg",
         "img": "assets/image/earing/ear8.jpg"
     },
@@ -69,6 +83,8 @@
         "name": "Earring 9",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear9_1.jpg",
         "img2": "assets/image/earing/ear9_2.jpg",
         "img": "assets/image/earing/ear9.jpg"
     },
@@ -78,6 +94,8 @@
         "name_cate": "HLS",
         "price": 100,
 
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear10_1.jpg",
         "img2": "assets/image/earing/ear10_2.jpg",
         "img": "assets/image/earing/ear10.jpg"
     },
@@ -87,6 +105,8 @@
         "name_cate": "HLS",
         "price": 100,
 
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear11_1.jpg",
         "img2": "assets/image/earing/ear11_2.jpg",
         "img": "assets/image/earing/ear11.jpg"
     },
@@ -95,6 +115,8 @@
         "name": "Earring 12",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear12_1.jpg",
         "img2": "assets/image/earing/ear12_2.jpg",
         "img": "assets/image/earing/ear12.jpg"
     },
@@ -103,6 +125,8 @@
         "name": "Earring 13",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear13_1.jpg",
         "img2": "assets/image/earing/ear13_2.jpg",
         "img": "assets/image/earing/ear13.jpg"
     },
@@ -111,6 +135,8 @@
         "name": "Earring 14",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear14_1.jpg",
         "img2": "assets/image/earing/ear14_2.jpg",
         "img": "assets/image/earing/ear14.jpg"
     },
@@ -119,15 +145,9 @@
         "name": "Earring 15",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/earing/ear15_1.jpg",
         "img2": "assets/image/earing/ear15_2.jpg",
         "img": "assets/image/earing/ear15.jpg"
-    },
-    {
-        "id": 48,
-        "name": "Earring 16",
-        "name_cate": "HLS",
-        "price": 50,
-        "img2": "assets/image/earing/ear16_2.jpg",
-        "img": "assets/image/earing/ear16.jpg"
     }
 ]

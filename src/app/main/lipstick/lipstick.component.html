@@ -1,1 +1,29 @@
-<p>lipstick works!</p>
+<div class="container-fluid">
+    <app-productmenu2></app-productmenu2>
+    <div class="col-lg-12 name-bar" style="margin: 0 auto; margin-bottom: 3%; margin-top: 3%; border-top: 1px solid black; border-bottom: 1px solid black; font-family: Italiana;">
+        <h3 class="col-lg-10">Cosmetic / All lipstick
+        </h3>
+    </div>
+    <main>
+        <div class="product col-lg-10 text-center">
+            <h2>
+                ALL LIPSTICK
+            </h2>
+            <div class=" all row ">
+                <div class="col-lg-3 col-md-4 col-6" *ngFor="let item of lipstick">
+                    <a routerLink="detail">
+                        <div class="card">
+                            <img class="card-img-top" src="{{item.img}}" alt="">
+                            <img class="change-img" src="{{item.img2}}">
+                            <div class="card-body">
+                                <h4 class="card-title">{{item.name}}</h4>
+                                <p class="card-text">{{item.price}}$</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </main>
+</div>

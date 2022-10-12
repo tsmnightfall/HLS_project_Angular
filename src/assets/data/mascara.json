@@ -1,0 +1,162 @@
+[{
+        "id": 81,
+        "name": "mascara 1",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas1_2.png",
+        "img2": "assets/image/mascara/mas1_1.png",
+        "img": "assets/image/mascara/mas1.jpeg"
+    },
+    {
+        "id": 82,
+        "name": "mascara 2",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas2_2.png",
+        "img2": "assets/image/mascara/mas2_1.png",
+        "img": "assets/image/mascara/mas2.jpeg"
+    },
+    {
+        "id": 83,
+        "name": "mascara 3",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas3_2.png",
+        "img2": "assets/image/mascara/mas3_1.png",
+        "img": "assets/image/mascara/mas3.jpeg"
+    },
+    {
+        "id": 84,
+        "name": "mascara 4",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas4_2.png",
+        "img2": "assets/image/mascara/mas4_1.png",
+        "img": "assets/image/mascara/mas4.jpeg"
+    },
+    {
+        "id": 85,
+        "name": "mascara 5",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas5_2.png",
+        "img2": "assets/image/mascara/mas5_1.png",
+        "img": "assets/image/mascara/mas5.jpeg"
+    },
+    {
+        "id": 86,
+        "name": "mascara 6",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas6_2.png",
+        "img2": "assets/image/mascara/mas6_1.png",
+        "img": "assets/image/mascara/mas6.jpeg"
+    },
+    {
+        "id": 87,
+        "name": "mascara 7",
+        "name_cate": "HLS",
+        "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas7_2.png",
+        "img2": "assets/image/mascara/mas7_1.png",
+        "img": "assets/image/mascara/mas7.jpeg"
+    },
+    {
+        "id": 88,
+        "name": "mascara 8",
+        "name_cate": "HLS",
+        "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas8_2.png",
+        "img2": "assets/image/mascara/mas8_1.png",
+        "img": "assets/image/mascara/mas8.jpeg"
+    },
+    {
+        "id": 89,
+        "name": "mascara 9",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas9_2.png",
+        "img2": "assets/image/mascara/mas9_1.png",
+        "img": "assets/image/mascara/mas9.jpeg"
+    },
+    {
+        "id": 90,
+        "name": "mascara 10",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas10_2.png",
+        "img2": "assets/image/mascara/mas10_1.png",
+        "img": "assets/image/mascara/mas10.jpeg"
+    },
+    {
+        "id": 91,
+        "name": "mascara 11",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas11_2.png",
+        "img2": "assets/image/mascara/mas11_1.png",
+        "img": "assets/image/mascara/mas11.jpeg"
+    },
+    {
+        "id": 92,
+        "name": "mascara 12",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas12_2.png",
+        "img2": "assets/image/mascara/mas12_1.png",
+        "img": "assets/image/mascara/mas12.jpeg"
+    },
+    {
+        "id": 93,
+        "name": "mascara 13",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas13_2.png",
+        "img2": "assets/image/mascara/mas13_1.png",
+        "img": "assets/image/mascara/mas13.jpeg"
+    },
+    {
+        "id": 94,
+        "name": "mascara 14",
+        "name_cate": "HLS",
+        "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas14_2.png",
+        "img2": "assets/image/mascara/mas14_1.png",
+        "img": "assets/image/mascara/mas14.jpeg"
+    },
+    {
+        "id": 95,
+        "name": "mascara 15",
+        "name_cate": "HLS",
+        "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas15_2.jpg",
+        "img2": "assets/image/mascara/mas15_1.jpg",
+        "img": "assets/image/mascara/mas15.png"
+    },
+    {
+        "id": 96,
+        "name": "mascara 16",
+        "name_cate": "HLS",
+        "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/mascara/mas16_2.png",
+        "img2": "assets/image/mascara/mas16_1.png",
+        "img": "assets/image/mascara/mas16.jpeg"
+
+    }
+]

@@ -4,6 +4,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/necklace/neck1_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck1_1.jpg",
         "img": "assets/image/necklace/neck1.jpg"
     },
     {
@@ -11,7 +13,8 @@
         "name": "Necklace 2",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck2_1.jpg",
         "img2": "assets/image/necklace/neck2_2.jpg",
         "img": "assets/image/necklace/neck2.jpg"
     },
@@ -21,6 +24,8 @@
         "name_cate": "HLS",
         "price": 100,
 
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck3_1.jpg",
         "img2": "assets/image/necklace/neck3_2.jpg",
         "img": "assets/image/necklace/neck3.jpg"
     },
@@ -29,6 +34,8 @@
         "name": "Necklace 4",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck4_1.jpg",
         "img2": "assets/image/necklace/neck4_2.jpg",
         "img": "assets/image/necklace/neck4.jpg"
     },
@@ -37,6 +44,8 @@
         "name": "Necklace 5",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck5_1.jpg",
         "img2": "assets/image/necklace/neck5_2.jpg",
         "img": "assets/image/necklace/neck5.jpg"
     },
@@ -45,6 +54,8 @@
         "name": "Necklace 6",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck6_1.jpg",
         "img2": "assets/image/necklace/neck6_2.jpg",
         "img": "assets/image/necklace/neck6.jpg"
     },
@@ -53,6 +64,8 @@
         "name": "Necklace 7",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck7_1.jpg",
         "img2": "assets/image/necklace/neck7_2.jpg",
         "img": "assets/image/necklace/neck7.jpg"
     },
@@ -61,6 +74,8 @@
         "name": "Necklace 8",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck8_1.jpg",
         "img2": "assets/image/necklace/neck8_2.jpg",
         "img": "assets/image/necklace/neck8.jpg"
     },
@@ -69,6 +84,8 @@
         "name": "Necklace 9",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck9_1.jpg",
         "img2": "assets/image/necklace/neck9_2.jpg",
         "img": "assets/image/necklace/neck9.jpg"
     },
@@ -77,7 +94,8 @@
         "name": "Necklace 10",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck10_1.jpg",
         "img2": "assets/image/necklace/neck10_2.jpg",
         "img": "assets/image/necklace/neck10.jpg"
     },
@@ -86,7 +104,8 @@
         "name": "Necklace 11",
         "name_cate": "HLS",
         "price": 100,
-
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck11_1.jpg",
         "img2": "assets/image/necklace/neck11_2.jpg",
         "img": "assets/image/necklace/neck11.jpg"
     },
@@ -95,6 +114,8 @@
         "name": "Necklace 12",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck12_1.jpg",
         "img2": "assets/image/necklace/neck12_2.jpg",
         "img": "assets/image/necklace/neck12.jpg"
     },
@@ -103,6 +124,8 @@
         "name": "Necklace 13",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck13_1.jpg",
         "img2": "assets/image/necklace/neck13_2.jpg",
         "img": "assets/image/necklace/neck13.jpg"
     },
@@ -111,6 +134,8 @@
         "name": "Necklace 14",
         "name_cate": "HLS",
         "price": 100,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck14_1.jpg",
         "img2": "assets/image/necklace/neck14_2.jpg",
         "img": "assets/image/necklace/neck14.jpg"
     },
@@ -119,6 +144,8 @@
         "name": "Necklace 15",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck15_1.jpg",
         "img2": "assets/image/necklace/neck15_2.jpg",
         "img": "assets/image/necklace/neck15.jpg"
     },
@@ -127,6 +154,8 @@
         "name": "Necklace 16",
         "name_cate": "HLS",
         "price": 50,
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/necklace/neck16_1.jpg",
         "img2": "assets/image/necklace/neck16_2.jpg",
         "img": "assets/image/necklace/neck16.jpg"
     }

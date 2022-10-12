@@ -22,35 +22,6 @@
     margin-right: 0 !important;
 }
 
-.container-fluid .duel-nav {
-    justify-content: center;
-    margin: 0 auto;
-    font-family: Italiana;
-    margin-bottom: 3%;
-}
-
-.container-fluid .duel-nav .duel-nav-jwelry {
-    border-right: 1px solid black;
-    padding: 2%;
-}
-
-.container-fluid .duel-nav .duel-nav-jwelry:hover a h1 {
-    background: rgb(184, 184, 184);
-    color: white;
-    transition: 1s;
-}
-
-.container-fluid .duel-nav .duel-nav-cosmetic {
-    border-left: 1px solid black;
-    padding: 2%;
-}
-
-.container-fluid .duel-nav .duel-nav-cosmetic:hover a h1 {
-    background: rgb(184, 184, 184);
-    color: white;
-    transition: 1s;
-}
-
 .container-fluid .name-bar {
     justify-content: space-around;
     padding-top: 1%;
@@ -108,10 +79,9 @@
     margin-bottom: 5%;
 }
 
-
-/* .card .change-img {
+.card .change-img {
     display: none;
-} */
+}
 
 .card .card-body {
     padding: 3%;
@@ -129,8 +99,7 @@
     border-radius: 1%;
 }
 
-
-/* .card:hover .card-img-top {
+.card:hover .card-img-top {
     transition: 1s;
     display: none;
 }
@@ -138,7 +107,7 @@
 .card:hover .change-img {
     transition: 1s;
     display: block;
-} */
+}
 
 .card:hover .card-body {
     border-bottom: 1px solid black;

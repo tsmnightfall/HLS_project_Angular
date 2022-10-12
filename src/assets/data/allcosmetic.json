@@ -1,0 +1,397 @@
+[{
+        "id": 49,
+        "name": "Cleanser 1",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean1_1.jpeg",
+        "img": "assets/image/cleanser/clean1.jpeg"
+    },
+    {
+        "id": 50,
+        "name": "Cleanser 2",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/cleanser/clean2_1.png",
+        "img": "assets/image/cleanser/clean2.jpeg"
+    },
+    {
+        "id": 51,
+        "name": "Cleanser 3",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/cleanser/clean3_1.jpeg",
+        "img": "assets/image/cleanser/clean3.jpeg"
+    },
+    {
+        "id": 52,
+        "name": "Cleanser 4",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean4_1.png",
+        "img": "assets/image/cleanser/clean4.png"
+    },
+    {
+        "id": 53,
+        "name": "Cleanser 5",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean5_1.jpeg",
+        "img": "assets/image/cleanser/clean5.jpeg"
+    },
+    {
+        "id": 54,
+        "name": "Cleanser 6",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean6_1.png",
+        "img": "assets/image/cleanser/clean6.jpeg"
+    },
+    {
+        "id": 55,
+        "name": "Cleanser 7",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/cleanser/clean7_1.jpeg",
+        "img": "assets/image/cleanser/clean7.jpeg"
+    },
+    {
+        "id": 56,
+        "name": "Cleanser 8",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/cleanser/clean8_1.jpeg",
+        "img": "assets/image/cleanser/clean8.jpeg"
+    },
+    {
+        "id": 57,
+        "name": "Cleanser 9",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean9_1.jpeg",
+        "img": "assets/image/cleanser/clean9.png"
+    },
+    {
+        "id": 58,
+        "name": "Cleanser 10",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/cleanser/clean10_1.jpeg",
+        "img": "assets/image/cleanser/clean10.jpeg"
+    },
+    {
+        "id": 59,
+        "name": "Cleanser 11",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/cleanser/clean11_1.jpeg",
+        "img": "assets/image/cleanser/clean11.jpeg"
+    },
+    {
+        "id": 60,
+        "name": "Cleanser 12",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean12_1.png",
+        "img": "assets/image/cleanser/clean12.png"
+    },
+    {
+        "id": 61,
+        "name": "Cleanser 13",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean13_1.jpeg",
+        "img": "assets/image/cleanser/clean13.jpeg"
+    },
+    {
+        "id": 62,
+        "name": "Cleanser 14",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/cleanser/clean14_1.jpeg",
+        "img": "assets/image/cleanser/clean14.jpeg"
+    },
+    {
+        "id": 63,
+        "name": "Cleanser 15",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/cleanser/clean15_1.jpeg",
+        "img": "assets/image/cleanser/clean15.jpeg"
+    },
+    {
+        "id": 64,
+        "name": "Cleanser 16",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/cleanser/clean16_1.jpeg",
+        "img": "assets/image/cleanser/clean16.jpeg"
+    },
+    {
+        "id": 65,
+        "name": "lipstick 1",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip1_1.jpeg",
+        "img": "assets/image/lipstick/lip1.png"
+    },
+    {
+        "id": 66,
+        "name": "lipstick 2",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip2_1.jpeg",
+        "img": "assets/image/lipstick/lip2.jpeg"
+    },
+    {
+        "id": 67,
+        "name": "lipstick 3",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/lipstick/lip3_1.jpeg",
+        "img": "assets/image/lipstick/lip3.jpeg"
+    },
+    {
+        "id": 68,
+        "name": "lipstick 4",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip4_1.png",
+        "img": "assets/image/lipstick/lip4.jpeg"
+    },
+    {
+        "id": 69,
+        "name": "lipstick 5",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip5_1.jpeg",
+        "img": "assets/image/lipstick/lip5.jpeg"
+    },
+    {
+        "id": 70,
+        "name": "lipstick 6",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip6_1.jpeg",
+        "img": "assets/image/lipstick/lip6.jpeg"
+    },
+    {
+        "id": 71,
+        "name": "lipstick 7",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lip7_1.jpeg",
+        "img": "assets/image/lipstick/lip7.png"
+    },
+    {
+        "id": 72,
+        "name": "lipstick 8",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lip8_1.jpeg",
+        "img": "assets/image/lipstick/lip8.jpeg"
+    },
+    {
+        "id": 73,
+        "name": "lipstick 9",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip9_1.png",
+        "img": "assets/image/lipstick/lip9.jpeg"
+    },
+    {
+        "id": 74,
+        "name": "lipstick 10",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/lipstick/lip10_1.jpeg",
+        "img": "assets/image/lipstick/lip10.jpeg"
+    },
+    {
+        "id": 75,
+        "name": "lipstick 11",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/lipstick/lip11_1.jpeg",
+        "img": "assets/image/lipstick/lip11.jpeg"
+    },
+    {
+        "id": 76,
+        "name": "lipstick 12",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip12_1.jpeg",
+        "img": "assets/image/lipstick/lip12.jpeg"
+    },
+    {
+        "id": 77,
+        "name": "lipstick 13",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip13_1.jpeg",
+        "img": "assets/image/lipstick/lip13.jpeg"
+    },
+    {
+        "id": 78,
+        "name": "lipstick 14",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/lipstick/lip14_1.jpeg",
+        "img": "assets/image/lipstick/lip14.png"
+    },
+    {
+        "id": 79,
+        "name": "lipstick 15",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lip15_1.jpeg",
+        "img": "assets/image/lipstick/lip15.jpeg"
+    },
+    {
+        "id": 80,
+        "name": "lipstick 16",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/lipstick/lip16_1.jpeg",
+        "img": "assets/image/lipstick/lip16.jpeg"
+    },
+    {
+        "id": 81,
+        "name": "mascara 1",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas1_1.png",
+        "img": "assets/image/mascara/mas1.jpeg"
+    },
+    {
+        "id": 82,
+        "name": "mascara 2",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/mascara/mas2_1.jpeg",
+        "img": "assets/image/mascara/mas2.jpeg"
+    },
+    {
+        "id": 83,
+        "name": "mascara 3",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/mascara/mas3_1.jpeg",
+        "img": "assets/image/mascara/mas3.jpeg"
+    },
+    {
+        "id": 84,
+        "name": "mascara 4",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas4_1.jpeg",
+        "img": "assets/image/mascara/mas4.jpeg"
+    },
+    {
+        "id": 85,
+        "name": "mascara 5",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas5_1.jpeg",
+        "img": "assets/image/mascara/mas5.jpeg"
+    },
+    {
+        "id": 86,
+        "name": "mascara 6",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas6_1.jpeg",
+        "img": "assets/image/mascara/mas6.jpeg"
+    },
+    {
+        "id": 87,
+        "name": "mascara 7",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/mascara/mas7_1.jpeg",
+        "img": "assets/image/mascara/mas7.jpeg"
+    },
+    {
+        "id": 88,
+        "name": "mascara 8",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/mascara/mas8_1.jpeg",
+        "img": "assets/image/mascara/mas8.jpeg"
+    },
+    {
+        "id": 89,
+        "name": "mascara 9",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas9_1.jpeg",
+        "img": "assets/image/mascara/mas9.jpeg"
+    },
+    {
+        "id": 90,
+        "name": "mascara 10",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/mascara/mas10_1.jpeg",
+        "img": "assets/image/mascara/mas10.jpeg"
+    },
+    {
+        "id": 91,
+        "name": "mascara 11",
+        "name_cate": "HLS",
+        "price": 100,
+
+        "img2": "assets/image/mascara/mas11_1.jpeg",
+        "img": "assets/image/mascara/mas11.jpeg"
+    },
+    {
+        "id": 92,
+        "name": "mascara 12",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas12_1.jpeg",
+        "img": "assets/image/mascara/mas12.jpeg"
+    },
+    {
+        "id": 93,
+        "name": "mascara 13",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas13_1.jpeg",
+        "img": "assets/image/mascara/mas13.jpeg"
+    },
+    {
+        "id": 94,
+        "name": "mascara 14",
+        "name_cate": "HLS",
+        "price": 100,
+        "img2": "assets/image/mascara/mas14_1.jpeg",
+        "img": "assets/image/mascara/mas14.jpeg"
+    },
+    {
+        "id": 95,
+        "name": "mascara 15",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/mascara/mas15_1.jpeg",
+        "img": "assets/image/mascara/mas15.png"
+    },
+    {
+        "id": 96,
+        "name": "mascara 16",
+        "name_cate": "HLS",
+        "price": 50,
+        "img2": "assets/image/mascara/mas16_1.png",
+        "img": "assets/image/mascara/mas16.jpeg"
+    }
+
+]

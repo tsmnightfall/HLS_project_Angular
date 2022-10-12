@@ -27,6 +27,9 @@ import { MascaraComponent } from './main/mascara/mascara.component';
 import { DetailComponent } from './main/detail/detail.component';
 import { ProductmenuComponent } from './main/productmenu/productmenu.component';
 import { Productmenu2Component } from './main/productmenu2/productmenu2.component';
+import { SearchPipe } from './search.pipe';
+
+
 
 @NgModule({
   declarations: [
@@ -49,6 +52,7 @@ import { Productmenu2Component } from './main/productmenu2/productmenu2.componen
     DetailComponent,
     ProductmenuComponent,
     Productmenu2Component,
+    SearchPipe,
 
   ],
   imports: [

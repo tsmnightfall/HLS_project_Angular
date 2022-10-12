@@ -4,6 +4,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring1_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring1_1.jpg",
         "img": "assets/image/ring/ring1.jpg"
     },
     {
@@ -13,6 +15,8 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring2_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring2_1.jpg",
         "img": "assets/image/ring/ring2.jpg"
     },
     {
@@ -22,6 +26,8 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring3_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring3_1.jpg",
         "img": "assets/image/ring/ring3.jpg"
     },
     {
@@ -30,6 +36,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring4_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring4_1.jpg",
         "img": "assets/image/ring/ring4.jpg"
     },
     {
@@ -38,6 +46,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring5_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring5_1.jpg",
         "img": "assets/image/ring/ring5.jpg"
     },
     {
@@ -46,6 +56,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring6_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring6_1.jpg",
         "img": "assets/image/ring/ring6.jpg"
     },
     {
@@ -54,6 +66,8 @@
         "name_cate": "HLS",
         "price": 50,
         "img2": "assets/image/ring/ring7_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring7_1.jpg",
         "img": "assets/image/ring/ring7.jpg"
     },
     {
@@ -62,6 +76,8 @@
         "name_cate": "HLS",
         "price": 50,
         "img2": "assets/image/ring/ring8_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring8_1.jpg",
         "img": "assets/image/ring/ring8.jpg"
     },
     {
@@ -70,6 +86,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring9_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring9_1.jpg",
         "img": "assets/image/ring/ring9.jpg"
     },
     {
@@ -79,6 +97,8 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring10_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring10_1.jpg",
         "img": "assets/image/ring/ring10.jpg"
     },
     {
@@ -88,6 +108,8 @@
         "price": 100,
 
         "img2": "assets/image/ring/ring11_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring11_1.jpg",
         "img": "assets/image/ring/ring11.jpg"
     },
     {
@@ -96,6 +118,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring12_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring12_1.jpg",
         "img": "assets/image/ring/ring12.jpg"
     },
     {
@@ -104,6 +128,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring13_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring13_1.jpg",
         "img": "assets/image/ring/ring13.jpg"
     },
     {
@@ -112,6 +138,8 @@
         "name_cate": "HLS",
         "price": 100,
         "img2": "assets/image/ring/ring14_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring14_1.jpg",
         "img": "assets/image/ring/ring14.jpg"
     },
     {
@@ -120,6 +148,8 @@
         "name_cate": "HLS",
         "price": 50,
         "img2": "assets/image/ring/ring15_2.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring15_1.jpg",
         "img": "assets/image/ring/ring15.jpg"
     },
     {
@@ -127,7 +157,9 @@
         "name": "Ring 16",
         "name_cate": "HLS",
         "price": 50,
-        "img2": "assets/image/ring/ring16_2.jpg",
+        "img2": "assets/image/ring/ring16.jpg",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero ut tempora explicabo delectus. Consequatur, placeat magni. Molestias sit aspernatur voluptate voluptatibus earum neque cumque nostrum totam! Commodi mollitia porro debitis!",
+        "img3": "assets/image/ring/ring16_1.jpg",
         "img": "assets/image/ring/ring16.jpg"
     }
 ]
